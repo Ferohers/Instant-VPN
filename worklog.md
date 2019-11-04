@@ -4,3 +4,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2019-11-04T23:10:55
 considered scalability, scaled back coding; strategic pause for future growth.
 
+## 2019-11-04T12:17:47
+mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
+
