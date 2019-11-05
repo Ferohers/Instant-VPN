@@ -1,3 +1,6 @@
 ## 2019-11-04T10:54:04
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2019-11-04T23:10:55
+considered scalability, scaled back coding; strategic pause for future growth.
+
