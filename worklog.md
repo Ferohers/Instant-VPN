@@ -13,3 +13,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2019-11-06T22:35:53
 explored machine learning models, training data hypothetical; ai brainstorming session.
 
+## 2019-11-06T19:43:45
+considered ci/cd pipelines, manual deployments continued; automation in thought.
+
