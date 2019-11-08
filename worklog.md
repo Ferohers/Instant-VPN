@@ -31,3 +31,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2019-11-08T21:37:48
 code smells identified mentally, refactoring todo list grew; awareness phase.
 
+## 2019-11-08T11:45:40
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
