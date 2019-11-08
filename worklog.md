@@ -34,3 +34,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2019-11-08T11:45:40
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2019-11-08T09:52:32
+considered a/b testing strategies, user experience constant; theoretical experimentation.
+
