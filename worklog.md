@@ -43,3 +43,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2019-11-08T18:15:15
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2019-11-08T16:23:07
+explored edge cases mentally, test cases not yet written; proactive thinking.
+
