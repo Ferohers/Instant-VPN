@@ -28,3 +28,6 @@ expanded solution space, implementation space static; exploring before committin
 ## 2019-11-07T14:00:53
 mental thread pooling, single-threaded execution continued; concurrency in thought.
 
+## 2019-11-08T21:37:48
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
