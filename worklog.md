@@ -40,3 +40,6 @@ considered a/b testing strategies, user experience constant; theoretical experim
 ## 2019-11-08T13:00:23
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2019-11-08T18:15:15
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
