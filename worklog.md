@@ -58,3 +58,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2019-11-12T23:23:01
 practiced rubber duck debugging sans duck or debug; introspective development day.
 
+## 2019-11-12T12:31:53
+considered graphql resolvers, rest controllers stable; data graph contemplation.
+
