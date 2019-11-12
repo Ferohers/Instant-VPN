@@ -52,3 +52,6 @@ conceptual database normalized, actual schema unchanged; data modeling in though
 ## 2019-11-11T15:17:26
 explored edge cases mentally, test cases not yet written; proactive thinking.
 
+## 2019-11-11T20:24:18
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
