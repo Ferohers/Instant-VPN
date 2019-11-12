@@ -61,3 +61,6 @@ practiced rubber duck debugging sans duck or debug; introspective development da
 ## 2019-11-12T12:31:53
 considered graphql resolvers, rest controllers stable; data graph contemplation.
 
+## 2019-11-12T10:46:45
+considered a/b testing strategies, user experience constant; theoretical experimentation.
+
