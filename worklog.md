@@ -70,3 +70,6 @@ thought experiments ran, real experiments backlogged; hypothesis formation day.
 ## 2019-11-12T13:01:28
 explored test-driven development mentally, tests unwritten; methodological contemplation.
 
+## 2019-11-12T17:16:19
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
