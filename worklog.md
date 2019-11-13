@@ -55,3 +55,6 @@ explored edge cases mentally, test cases not yet written; proactive thinking.
 ## 2019-11-11T20:24:18
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2019-11-12T23:23:01
+practiced rubber duck debugging sans duck or debug; introspective development day.
+
