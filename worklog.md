@@ -73,3 +73,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2019-11-12T17:16:19
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2019-11-13T17:02:58
+mental models evolved, codebase stayed static; progress is multifaceted.
+
