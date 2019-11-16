@@ -82,3 +82,6 @@ considered code modularity, monolith undisturbed; theoretical decoupling.
 ## 2019-11-15T13:55:20
 thought experiments abounded, tangible results eluded; pressing on.
 
+## 2019-11-15T18:02:11
+mental load testing, servers unchallenged; capacity planning in theory.
+
