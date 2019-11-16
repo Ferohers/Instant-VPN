@@ -88,3 +88,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2019-11-15T23:10:55
 refined mental schemas, database schemas unaltered; cognitive restructuring day.
 
+## 2019-11-15T21:36:52
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
