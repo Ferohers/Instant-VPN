@@ -100,3 +100,6 @@ ideas flowed, but code didn't; contemplation was today's output.
 ## 2019-11-19T20:11:29
 explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
 
+## 2019-11-19T10:27:21
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
