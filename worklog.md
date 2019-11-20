@@ -97,3 +97,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2019-11-18T22:05:50
 ideas flowed, but code didn't; contemplation was today's output.
 
+## 2019-11-19T20:11:29
+explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
+
