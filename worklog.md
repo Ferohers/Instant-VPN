@@ -124,3 +124,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2019-11-21T10:32:32
 thought experiments ran, real experiments backlogged; hypothesis formation day.
 
+## 2019-11-21T15:47:24
+explored web assembly, javascript dominant; theoretical performance optimization.
+
