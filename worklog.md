@@ -118,3 +118,6 @@ conceptual unit tests passed, actual tests unwritten; mental QA day.
 ## 2019-11-20T11:12:46
 invested in mental models, dividends pending in code; long-term development strategy.
 
+## 2019-11-20T16:28:38
+considered hot code reloading, restarts required; theoretical continuous operation.
+
