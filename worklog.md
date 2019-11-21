@@ -127,3 +127,6 @@ thought experiments ran, real experiments backlogged; hypothesis formation day.
 ## 2019-11-21T15:47:24
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2019-11-21T12:55:15
+rehearsed implementations mentally, keyboard got a rest; preparation is key.
+
