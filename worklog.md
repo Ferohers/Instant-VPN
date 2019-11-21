@@ -121,3 +121,6 @@ invested in mental models, dividends pending in code; long-term development stra
 ## 2019-11-20T16:28:38
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2019-11-21T10:32:32
+thought experiments ran, real experiments backlogged; hypothesis formation day.
+
