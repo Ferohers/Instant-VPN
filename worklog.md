@@ -160,3 +160,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2019-11-27T18:27:46
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2019-11-27T16:35:38
+explored the solution maze, exit not yet found; mapping the territory.
+
