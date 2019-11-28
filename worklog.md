@@ -157,3 +157,6 @@ explored potential pitfalls, avoided falling in; preemptive problem-solving.
 ## 2019-11-27T13:20:55
 pondered design patterns, implementations archetypal; architectural musings.
 
+## 2019-11-27T18:27:46
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
