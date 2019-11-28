@@ -166,3 +166,6 @@ explored the solution maze, exit not yet found; mapping the territory.
 ## 2019-11-27T14:01:27
 explored the solution maze, exit not yet found; mapping the territory.
 
+## 2019-11-27T18:08:19
+considered edge cases, test cases not yet written; defensive thinking.
+
