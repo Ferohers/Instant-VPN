@@ -175,3 +175,6 @@ explored numerous avenues, arrived at no destination; journey continues.
 ## 2019-11-28T11:54:34
 brainstormed extensively, implemented naught; future fruits await.
 
+## 2019-11-28T16:01:26
+wrestled with concepts, code remained unaltered; groundwork for future commits.
+
