@@ -190,3 +190,6 @@ conceptualized microservices, monolith stood firm; architectural daydreaming.
 ## 2019-11-28T21:47:52
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2019-11-29T16:02:25
+problem space expanded, solution space contemplated; widening the lens.
+
