@@ -202,3 +202,6 @@ algorithms pondered, implementation postponed; strategy before tactics.
 ## 2019-11-30T23:29:21
 mental security audit conducted, vulnerabilities unexploited; theoretical penetration testing.
 
+## 2019-12-02T13:54:43
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
