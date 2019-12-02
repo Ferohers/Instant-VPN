@@ -214,3 +214,6 @@ explored event sourcing, state mutations ongoing; theoretical audit trails.
 ## 2019-12-02T20:25:18
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2019-12-02T10:32:10
+pondered graceful degradation, full functionality maintained; theoretical fail-safes.
+
