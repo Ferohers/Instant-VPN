@@ -208,3 +208,6 @@ explored domain-driven design, bounded contexts imaginary; conceptual modeling e
 ## 2019-12-02T17:02:35
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2019-12-02T15:09:27
+explored event sourcing, state mutations ongoing; theoretical audit trails.
+
