@@ -211,3 +211,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2019-12-02T15:09:27
 explored event sourcing, state mutations ongoing; theoretical audit trails.
 
+## 2019-12-02T20:25:18
+considered scalability issues, scaling postponed; thinking big while starting small.
+
