@@ -217,3 +217,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2019-12-02T10:32:10
 pondered graceful degradation, full functionality maintained; theoretical fail-safes.
 
+## 2019-12-03T18:40:16
+considered logging strategies, log files unchanging; traceability in theory.
+
