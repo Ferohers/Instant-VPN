@@ -268,3 +268,6 @@ pondered continuous integration, pipeline unchanged; devops dreaming.
 ## 2019-12-07T21:52:39
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2019-12-07T10:59:30
+considered message queues, synchronous operations ongoing; asynchronous ideation.
+
