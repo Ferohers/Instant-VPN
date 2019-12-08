@@ -265,3 +265,6 @@ brainstormed feature ideas, backlog unchanged; conceptual product planning.
 ## 2019-12-07T23:45:47
 pondered continuous integration, pipeline unchanged; devops dreaming.
 
+## 2019-12-07T21:52:39
+considered hot code reloading, restarts required; theoretical continuous operation.
+
