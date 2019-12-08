@@ -271,3 +271,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2019-12-07T10:59:30
 considered message queues, synchronous operations ongoing; asynchronous ideation.
 
+## 2019-12-07T23:15:22
+considered logging strategies, log files unchanging; traceability in theory.
+
