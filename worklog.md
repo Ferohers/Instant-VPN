@@ -283,3 +283,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2019-12-09T21:41:24
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2019-12-09T11:48:16
+considered technical debt, repayment plans drafted; financial planning for code.
+
