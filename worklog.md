@@ -289,3 +289,6 @@ considered technical debt, repayment plans drafted; financial planning for code.
 ## 2019-12-09T16:56:07
 mental refactoring day; codebase patiently awaits its turn.
 
+## 2019-12-09T13:11:59
+considered oauth flows, authentication unchanged; theoretical access control.
+
