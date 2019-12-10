@@ -280,3 +280,6 @@ mental api gateway design, direct service calls ongoing; theoretical request man
 ## 2019-12-09T23:25:33
 mental code signing, certificates unexpired; security in principle.
 
+## 2019-12-09T21:41:24
+conceptual leaps made, keystrokes conserved; sometimes progress is silent.
+
