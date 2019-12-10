@@ -274,3 +274,6 @@ considered message queues, synchronous operations ongoing; asynchronous ideation
 ## 2019-12-07T23:15:22
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2019-12-09T19:18:49
+mental api gateway design, direct service calls ongoing; theoretical request management.
+
