@@ -277,3 +277,6 @@ considered logging strategies, log files unchanging; traceability in theory.
 ## 2019-12-09T19:18:49
 mental api gateway design, direct service calls ongoing; theoretical request management.
 
+## 2019-12-09T23:25:33
+mental code signing, certificates unexpired; security in principle.
+
