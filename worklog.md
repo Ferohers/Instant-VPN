@@ -301,3 +301,6 @@ API design pondered, endpoints undocumented; interface ideation day.
 ## 2019-12-11T21:54:25
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2019-12-11T11:09:17
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
