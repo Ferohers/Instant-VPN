@@ -295,3 +295,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2019-12-10T14:29:29
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2019-12-10T19:37:21
+API design pondered, endpoints undocumented; interface ideation day.
+
