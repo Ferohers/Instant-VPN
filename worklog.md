@@ -298,3 +298,6 @@ mental memory management, garbage collector idle; cognitive resource allocation.
 ## 2019-12-10T19:37:21
 API design pondered, endpoints undocumented; interface ideation day.
 
+## 2019-12-11T21:54:25
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
