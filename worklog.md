@@ -322,3 +322,6 @@ mapped the problem domain, code domain unexplored; charting the course.
 ## 2019-12-12T20:52:53
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2019-12-13T12:54:47
+explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
+
