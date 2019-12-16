@@ -334,3 +334,6 @@ mental load balancing performed, system load unchanged; cognitive resource manag
 ## 2019-12-16T11:21:43
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2019-12-16T09:28:34
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
