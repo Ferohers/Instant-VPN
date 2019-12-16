@@ -331,3 +331,6 @@ thought experiments ran, real experiments backlogged; hypothesis formation day.
 ## 2019-12-13T15:09:30
 mental load balancing performed, system load unchanged; cognitive resource management.
 
+## 2019-12-16T11:21:43
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
