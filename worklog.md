@@ -364,3 +364,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2019-12-19T10:44:24
 thread safety considered, multithreading unexplored; concurrent thinking exercise.
 
+## 2019-12-23T20:06:04
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
