@@ -475,3 +475,6 @@ explored the problem space, solution space unexpressed; coding is more than typi
 ## 2020-01-03T19:43:22
 abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
 
+## 2020-01-06T14:16:40
+considered ci/cd pipelines, manual deployments continued; automation in thought.
+
