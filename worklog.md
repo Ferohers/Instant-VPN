@@ -478,3 +478,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2020-01-06T14:16:40
 considered ci/cd pipelines, manual deployments continued; automation in thought.
 
+## 2020-01-06T19:32:32
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
