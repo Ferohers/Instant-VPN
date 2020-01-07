@@ -481,3 +481,6 @@ considered ci/cd pipelines, manual deployments continued; automation in thought.
 ## 2020-01-06T19:32:32
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2020-01-06T17:39:24
+explored event sourcing, state mutations ongoing; theoretical audit trails.
+
