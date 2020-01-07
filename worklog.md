@@ -493,3 +493,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2020-01-07T10:20:42
 abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
 
+## 2020-01-07T14:35:34
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
