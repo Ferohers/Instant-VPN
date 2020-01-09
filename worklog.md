@@ -496,3 +496,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2020-01-07T14:35:34
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2020-01-08T21:29:19
+rich in consideration, poor in commits; the developer's paradox.
+
