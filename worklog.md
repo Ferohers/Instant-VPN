@@ -538,3 +538,6 @@ mental code review conducted, pull requests on hold; self-reflection coding.
 ## 2020-01-15T14:56:33
 explored the coding cosmos, keyboard gravity too strong; floating ideas.
 
+## 2020-01-15T19:04:25
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
