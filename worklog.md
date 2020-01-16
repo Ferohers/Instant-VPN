@@ -553,3 +553,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2020-01-16T11:40:45
 pondered eventual consistency, strong consistency maintained; theoretical distributed systems.
 
+## 2020-01-16T15:48:37
+mental load testing, servers unchallenged; capacity planning in theory.
+
