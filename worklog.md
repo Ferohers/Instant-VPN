@@ -544,3 +544,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2020-01-15T16:19:17
 contemplated clean code principles, mess remains; aspirational development.
 
+## 2020-01-16T23:17:02
+considered ci/cd pipelines, manual deployments continued; automation in thought.
+
