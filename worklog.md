@@ -586,3 +586,6 @@ traversed decision trees, leaves yet to be implemented; mapping the possibilitie
 ## 2020-01-20T21:26:43
 thought experiments abounded, tangible results eluded; pressing on.
 
+## 2020-01-20T11:33:34
+considered database sharding, monolithic db humming; theoretical data distribution.
+
