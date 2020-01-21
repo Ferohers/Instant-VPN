@@ -583,3 +583,6 @@ considered helm charts, kubernetes clusters imaginary; theoretical container orc
 ## 2020-01-20T17:10:51
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2020-01-20T21:26:43
+thought experiments abounded, tangible results eluded; pressing on.
+
