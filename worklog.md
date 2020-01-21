@@ -601,3 +601,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2020-01-21T11:25:53
 explored the coding cosmos, keyboard gravity too strong; floating ideas.
 
+## 2020-01-21T15:41:45
+explored the problem space, solution space unexpressed; coding is more than typing.
+
