@@ -580,3 +580,6 @@ contemplated api versioning, endpoints stable; future-proofing interfaces mental
 ## 2020-01-20T19:03:59
 considered helm charts, kubernetes clusters imaginary; theoretical container orchestration.
 
+## 2020-01-20T17:10:51
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
