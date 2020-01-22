@@ -610,3 +610,6 @@ considered edge cases, test cases not yet written; defensive thinking.
 ## 2020-01-22T22:23:26
 thought about code reviews, pull requests unopened; peer review visualization.
 
+## 2020-01-22T12:30:09
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
