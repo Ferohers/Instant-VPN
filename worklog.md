@@ -616,3 +616,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2020-01-22T10:37:01
 pondered continuous integration, pipeline unchanged; devops dreaming.
 
+## 2020-01-22T15:53:53
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
