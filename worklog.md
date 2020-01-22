@@ -589,3 +589,6 @@ thought experiments abounded, tangible results eluded; pressing on.
 ## 2020-01-20T11:33:34
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2020-01-21T18:55:26
+considered logging strategies, log files unchanging; traceability in theory.
+
