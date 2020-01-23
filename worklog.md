@@ -607,3 +607,6 @@ explored the problem space, solution space unexpressed; coding is more than typi
 ## 2020-01-22T09:57:28
 considered edge cases, test cases not yet written; defensive thinking.
 
+## 2020-01-22T22:23:26
+thought about code reviews, pull requests unopened; peer review visualization.
+
