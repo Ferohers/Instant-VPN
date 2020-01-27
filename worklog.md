@@ -643,3 +643,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2020-01-25T21:46:03
 mental memory management, garbage collector idle; cognitive resource allocation.
 
+## 2020-01-27T09:04:06
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
