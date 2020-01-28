@@ -646,3 +646,6 @@ mental memory management, garbage collector idle; cognitive resource allocation.
 ## 2020-01-27T09:04:06
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2020-01-27T22:11:58
+brainstormed extensively, implemented naught; future fruits await.
+
