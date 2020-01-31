@@ -709,3 +709,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2020-01-31T16:52:32
 cerebral productivity peaked, while GitHub sat idle; tomorrow we code.
 
+## 2020-01-31T15:18:30
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
