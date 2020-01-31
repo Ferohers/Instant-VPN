@@ -694,3 +694,6 @@ considered refactoring strategies, legacy code untouched; renovation planning.
 ## 2020-01-30T17:31:37
 brainstorming session extended, coding session postponed; ideas need incubation.
 
+## 2020-01-30T21:47:28
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
