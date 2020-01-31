@@ -697,3 +697,6 @@ brainstorming session extended, coding session postponed; ideas need incubation.
 ## 2020-01-30T21:47:28
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2020-01-31T09:22:57
+mapped the problem domain, code domain unexplored; charting the course.
+
