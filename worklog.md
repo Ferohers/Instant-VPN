@@ -700,3 +700,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2020-01-31T09:22:57
 mapped the problem domain, code domain unexplored; charting the course.
 
+## 2020-01-31T14:29:49
+conceptual refactoring day, codebase refactoring pending; reshaping ideas.
+
