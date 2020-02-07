@@ -763,3 +763,6 @@ deliberated deeply, committed shallowly; the essence of careful development.
 ## 2020-02-07T11:54:26
 pondered eventual consistency, strong consistency maintained; theoretical distributed systems.
 
+## 2020-02-07T09:01:17
+algorithms pondered, implementation postponed; strategy before tactics.
+
