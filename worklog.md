@@ -757,3 +757,6 @@ contemplated api versioning, endpoints stable; future-proofing interfaces mental
 ## 2020-02-06T22:00:16
 deepened understanding, delayed execution; knowledge precedes implementation.
 
+## 2020-02-06T20:26:14
+deliberated deeply, committed shallowly; the essence of careful development.
+
