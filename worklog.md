@@ -781,3 +781,6 @@ mental merge conflicts resolved, branches unmerged; intellectual integration.
 ## 2020-02-11T11:24:26
 explored asynchronous patterns, callbacks unwritten; concurrent thinking exercise.
 
+## 2020-02-11T09:39:18
+considered scalability issues, scaling postponed; thinking big while starting small.
+
