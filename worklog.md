@@ -772,3 +772,6 @@ wrestled with concepts, code remained unaltered; groundwork for future commits.
 ## 2020-02-10T23:23:27
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2020-02-11T17:09:51
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
