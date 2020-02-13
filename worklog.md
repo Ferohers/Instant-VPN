@@ -805,3 +805,6 @@ considered architectural patterns, blueprint still in flux; designing the struct
 ## 2020-02-13T21:00:27
 conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 
+## 2020-02-13T11:07:18
+explored the forest, trees remain untouched; zooming out has value.
+
