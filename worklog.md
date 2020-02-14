@@ -808,3 +808,6 @@ conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 ## 2020-02-13T11:07:18
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2020-02-13T16:15:10
+pondered blue-green deployments, single environment stable; zero-downtime theories.
+
