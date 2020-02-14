@@ -835,3 +835,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2020-02-14T09:25:42
 thought-level encryption applied, data encryption postponed; securing ideas first.
 
+## 2020-02-14T14:32:34
+explored the problem space, solution space unexpressed; coding is more than typing.
+
