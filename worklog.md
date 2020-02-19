@@ -865,3 +865,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2020-02-18T22:57:54
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2020-02-19T15:15:18
+pondered idempotency, duplicate requests possible; theoretical consistency assurance.
+
