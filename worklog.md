@@ -862,3 +862,6 @@ contemplated code comments, documentation debt grew; mental note-taking.
 ## 2020-02-18T09:50:02
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2020-02-18T22:57:54
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
