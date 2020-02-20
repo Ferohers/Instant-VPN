@@ -868,3 +868,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2020-02-19T15:15:18
 pondered idempotency, duplicate requests possible; theoretical consistency assurance.
 
+## 2020-02-19T19:22:10
+intellectual strides made, repository unmoved; reflection has value too.
+
