@@ -892,3 +892,6 @@ explored machine learning models, training data hypothetical; ai brainstorming s
 ## 2020-02-20T23:38:05
 ideated on interface design, UI unchanged; conceptual user experience work.
 
+## 2020-02-21T10:47:00
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
