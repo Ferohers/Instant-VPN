@@ -898,3 +898,6 @@ explored domain-driven design, bounded contexts imaginary; conceptual modeling e
 ## 2020-02-21T23:54:51
 explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
 
+## 2020-02-21T13:10:43
+debugged mental models, source code unaltered; cognitive troubleshooting.
+
