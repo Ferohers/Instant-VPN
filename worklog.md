@@ -880,3 +880,6 @@ theoretical advances made, practical applications pending; development's ebb and
 ## 2020-02-19T12:53:45
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2020-02-20T16:07:30
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
