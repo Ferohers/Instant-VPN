@@ -883,3 +883,6 @@ contemplated api versioning, endpoints stable; future-proofing interfaces mental
 ## 2020-02-20T16:07:30
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2020-02-20T20:23:22
+considered graphql resolvers, rest controllers stable; data graph contemplation.
+
