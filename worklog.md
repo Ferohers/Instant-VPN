@@ -913,3 +913,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2020-02-25T23:36:01
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2020-02-25T12:43:53
+considered oauth flows, authentication unchanged; theoretical access control.
+
