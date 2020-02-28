@@ -943,3 +943,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-02-27T11:36:31
 explored test-driven development mentally, tests unwritten; methodological contemplation.
 
+## 2020-02-27T16:43:22
+considered containerization, docker-free day; isolation in thought only.
+
