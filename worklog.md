@@ -946,3 +946,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2020-02-27T16:43:22
 considered containerization, docker-free day; isolation in thought only.
 
+## 2020-02-28T09:40:08
+mental code signing, certificates unexpired; security in principle.
+
