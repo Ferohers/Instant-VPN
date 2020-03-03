@@ -958,3 +958,6 @@ considered ci/cd pipelines, manual deployments continued; automation in thought.
 ## 2020-02-28T09:10:43
 mental branches created, git branches unchanged; parallel universe planning.
 
+## 2020-03-02T22:40:05
+considered database sharding, monolithic db humming; theoretical data distribution.
+
