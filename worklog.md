@@ -994,3 +994,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2020-03-04T19:09:03
 explored chaos engineering mentally, stability maintained; theoretical resilience testing.
 
+## 2020-03-05T10:38:48
+mulled over possibilities, kept options open; decision tree growing.
+
