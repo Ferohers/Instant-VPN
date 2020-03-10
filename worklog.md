@@ -1030,3 +1030,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2020-03-09T18:38:51
 brainstorming session extended, coding session postponed; ideas need incubation.
 
+## 2020-03-10T10:51:56
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
