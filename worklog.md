@@ -1078,3 +1078,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2020-03-16T21:17:07
 dived deep into theory, implementation remained shallow; foundations before buildings.
 
+## 2020-03-16T19:25:59
+thought about cache invalidation, cache hits steady; conceptual performance tuning.
+
