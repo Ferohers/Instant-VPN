@@ -1075,3 +1075,6 @@ refined mental schemas, database schemas unaltered; cognitive restructuring day.
 ## 2020-03-13T16:48:01
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2020-03-16T21:17:07
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
