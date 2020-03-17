@@ -1093,3 +1093,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2020-03-17T09:10:44
 rehearsed implementations mentally, keyboard got a rest; preparation is key.
 
+## 2020-03-17T13:18:35
+explored web assembly, javascript dominant; theoretical performance optimization.
+
