@@ -1213,3 +1213,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2020-04-02T17:55:54
 mental canary releases, full rollouts standard; theoretical gradual deployment.
 
+## 2020-04-04T16:28:25
+mulled over possibilities, kept options open; decision tree growing.
+
