@@ -1228,3 +1228,6 @@ practiced mental pair programming, solo coding in reality; collaborative visuali
 ## 2020-04-04T13:06:52
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2020-04-04T10:13:44
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
