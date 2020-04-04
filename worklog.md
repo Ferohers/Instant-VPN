@@ -1225,3 +1225,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2020-04-04T23:59:00
 practiced mental pair programming, solo coding in reality; collaborative visualization.
 
+## 2020-04-04T13:06:52
+thought about scalability, current scale unmoved; future-proofing in mind.
+
