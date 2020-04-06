@@ -1231,3 +1231,6 @@ thought about scalability, current scale unmoved; future-proofing in mind.
 ## 2020-04-04T10:13:44
 explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
 
+## 2020-04-06T11:51:08
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
