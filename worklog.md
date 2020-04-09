@@ -1273,3 +1273,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2020-04-08T20:46:56
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2020-04-09T14:16:46
+explored the problem iceberg, tip remains unmelted; depth before breadth.
+
