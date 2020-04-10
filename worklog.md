@@ -1300,3 +1300,6 @@ explored chaos engineering mentally, stability maintained; theoretical resilienc
 ## 2020-04-10T18:05:43
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2020-04-10T16:20:35
+considered continuous integration, deployment continuous only in mind; DevOps dreaming.
+
