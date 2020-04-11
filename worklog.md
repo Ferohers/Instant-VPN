@@ -1303,3 +1303,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2020-04-10T16:20:35
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2020-04-10T21:27:27
+practiced mental pair programming, actual pairing postponed; collaborative visualization.
+
