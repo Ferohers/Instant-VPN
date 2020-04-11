@@ -1318,3 +1318,6 @@ considered scalability, scaled back coding; strategic pause for future growth.
 ## 2020-04-11T13:17:43
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2020-04-11T11:25:34
+mental load testing, servers unchallenged; capacity planning in theory.
+
