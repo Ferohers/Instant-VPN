@@ -1321,3 +1321,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2020-04-11T11:25:34
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2020-04-11T16:32:26
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
