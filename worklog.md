@@ -1306,3 +1306,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2020-04-10T21:27:27
 practiced mental pair programming, actual pairing postponed; collaborative visualization.
 
+## 2020-04-11T21:47:08
+deepened understanding, delayed execution; knowledge precedes implementation.
+
