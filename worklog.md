@@ -1324,3 +1324,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-04-11T16:32:26
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2020-04-13T11:32:17
+mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
+
