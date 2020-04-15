@@ -1345,3 +1345,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2020-04-14T20:08:06
 thought experiments abounded, tangible results eluded; pressing on.
 
+## 2020-04-15T15:45:59
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
