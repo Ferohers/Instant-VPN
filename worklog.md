@@ -1348,3 +1348,6 @@ thought experiments abounded, tangible results eluded; pressing on.
 ## 2020-04-15T15:45:59
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2020-04-15T12:52:51
+explored design patterns, pattern implementation pending; architectural musings.
+
