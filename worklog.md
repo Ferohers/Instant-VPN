@@ -1393,3 +1393,6 @@ rich in consideration, poor in commits; the developer's paradox.
 ## 2020-04-22T11:35:32
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2020-04-22T16:43:24
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
