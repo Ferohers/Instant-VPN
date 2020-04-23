@@ -1396,3 +1396,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2020-04-22T16:43:24
 evaluated trade-offs, decisions pending; weighing options is progress too.
 
+## 2020-04-23T12:13:04
+mental feature toggles, all features on; theoretical selective execution.
+
