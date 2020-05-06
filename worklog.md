@@ -1468,3 +1468,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2020-05-05T19:53:27
 explored design patterns, pattern implementation pending; architectural musings.
 
+## 2020-05-06T09:08:09
+thought about code reviews, pull requests unopened; peer review visualization.
+
