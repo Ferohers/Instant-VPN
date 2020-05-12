@@ -1498,3 +1498,6 @@ ideas germinated, code hibernated; nurturing future implementations.
 ## 2020-05-11T15:26:48
 explored design patterns, pattern implementation pending; architectural musings.
 
+## 2020-05-11T20:42:39
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
