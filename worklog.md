@@ -1513,3 +1513,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2020-05-13T18:30:41
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2020-05-14T12:07:10
+pondered blue-green deployments, single environment stable; zero-downtime theories.
+
