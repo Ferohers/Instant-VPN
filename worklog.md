@@ -1561,3 +1561,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2020-05-21T23:57:44
 considerations deepened, commit history static; laying cognitive foundations.
 
+## 2020-05-21T13:05:36
+debated best practices, practice put on hold; principles before patterns.
+
