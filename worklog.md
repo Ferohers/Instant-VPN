@@ -1567,3 +1567,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2020-05-21T11:12:27
 mental models evolved, codebase stayed static; progress is multifaceted.
 
+## 2020-05-21T15:28:19
+conceptual refactoring day, codebase refactoring pending; reshaping ideas.
+
