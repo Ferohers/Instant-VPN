@@ -1573,3 +1573,6 @@ conceptual refactoring day, codebase refactoring pending; reshaping ideas.
 ## 2020-05-22T18:43:28
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2020-05-25T11:40:47
+explored web assembly, javascript dominant; theoretical performance optimization.
+
