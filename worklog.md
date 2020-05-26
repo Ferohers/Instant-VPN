@@ -1594,3 +1594,6 @@ explored asynchronous ideas, synchronization deferred; parallel thinking day.
 ## 2020-05-26T15:06:06
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2020-05-26T13:21:57
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
