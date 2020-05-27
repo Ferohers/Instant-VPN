@@ -1597,3 +1597,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2020-05-26T13:21:57
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2020-05-26T17:29:49
+explored possibilities, deferred decisions; progress measured in thoughts.
+
