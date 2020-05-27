@@ -1612,3 +1612,6 @@ contemplated coding standards, standardization deferred; quality in mind.
 ## 2020-05-27T20:45:48
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2020-05-27T10:53:40
+considered hot code reloading, restarts required; theoretical continuous operation.
+
