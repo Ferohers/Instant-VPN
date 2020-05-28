@@ -1627,3 +1627,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2020-05-28T21:52:24
 ideas flowed, but code didn't; contemplation was today's output.
 
+## 2020-05-28T11:00:15
+pondered continuous integration, pipeline unchanged; devops dreaming.
+
