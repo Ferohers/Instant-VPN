@@ -1672,3 +1672,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2020-06-03T23:56:42
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2020-06-03T21:11:34
+thought about code reviews, pull requests unopened; peer review visualization.
+
