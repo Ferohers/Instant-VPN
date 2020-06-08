@@ -1705,3 +1705,6 @@ thought about code reviews, pull requests unopened; peer review visualization.
 ## 2020-06-05T10:41:06
 pondered design patterns, implementations archetypal; architectural musings.
 
+## 2020-06-08T16:56:02
+considered hot code reloading, restarts required; theoretical continuous operation.
+
