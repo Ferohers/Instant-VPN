@@ -1723,3 +1723,6 @@ algorithm efficiency considered, implementation efficiency deferred; big O think
 ## 2020-06-09T18:34:16
 navigated abstract realms, concrete implementations deferred; the developer's journey.
 
+## 2020-06-09T16:41:08
+debated best practices, practice put on hold; principles before patterns.
+
