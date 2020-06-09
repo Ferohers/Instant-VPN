@@ -1717,3 +1717,6 @@ contemplated clean code principles, mess remains; aspirational development.
 ## 2020-06-09T16:01:27
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2020-06-09T14:19:24
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
