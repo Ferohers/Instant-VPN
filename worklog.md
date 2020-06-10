@@ -1729,3 +1729,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2020-06-10T23:54:54
 pondered continuous integration, pipeline unchanged; devops dreaming.
 
+## 2020-06-10T12:09:46
+pondered serverless architecture, servers still humming; cloud-native contemplation.
+
