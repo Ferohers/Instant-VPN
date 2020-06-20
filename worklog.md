@@ -1825,3 +1825,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2020-06-19T14:34:57
 pondered much, produced little; tomorrow's another chance.
 
+## 2020-06-19T19:42:49
+explored zero-trust architecture, perimeter secure; theoretical security model.
+
