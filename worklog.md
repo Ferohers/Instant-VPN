@@ -1837,3 +1837,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-06-22T09:16:19
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2020-06-22T14:24:11
+mental graphql schema design, rest apis undisturbed; theoretical data querying.
+
