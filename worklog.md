@@ -1834,3 +1834,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2020-06-22T20:01:27
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2020-06-22T09:16:19
+mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
+
