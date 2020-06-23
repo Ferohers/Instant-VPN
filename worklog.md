@@ -1828,3 +1828,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2020-06-19T19:42:49
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2020-06-22T22:53:44
+considered oauth flows, authentication unchanged; theoretical access control.
+
