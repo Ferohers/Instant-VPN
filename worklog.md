@@ -1831,3 +1831,6 @@ explored zero-trust architecture, perimeter secure; theoretical security model.
 ## 2020-06-22T22:53:44
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2020-06-22T20:01:27
+mental load testing, servers unchallenged; capacity planning in theory.
+
