@@ -1867,3 +1867,6 @@ explored zero-trust architecture, perimeter secure; theoretical security model.
 ## 2020-06-24T17:32:17
 explored zero-trust architecture, perimeter secure; theoretical security model.
 
+## 2020-06-24T16:58:14
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
