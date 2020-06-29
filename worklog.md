@@ -1900,3 +1900,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2020-06-29T09:29:37
 explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
 
+## 2020-06-29T14:36:29
+abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
+
