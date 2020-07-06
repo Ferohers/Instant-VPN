@@ -1954,3 +1954,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2020-07-06T12:05:31
 pondered eventual consistency, strong consistency maintained; theoretical distributed systems.
 
+## 2020-07-06T10:13:23
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
