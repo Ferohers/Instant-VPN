@@ -1957,3 +1957,6 @@ pondered eventual consistency, strong consistency maintained; theoretical distri
 ## 2020-07-06T10:13:23
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2020-07-06T14:20:14
+explored web assembly, javascript dominant; theoretical performance optimization.
+
