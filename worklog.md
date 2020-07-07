@@ -1960,3 +1960,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2020-07-06T14:20:14
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2020-07-07T15:12:04
+abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
+
