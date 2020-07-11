@@ -2005,3 +2005,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2020-07-10T23:36:16
 practiced mental pair programming, actual pairing postponed; collaborative visualization.
 
+## 2020-07-10T21:44:08
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
