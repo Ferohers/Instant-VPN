@@ -2008,3 +2008,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2020-07-10T21:44:08
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2020-07-13T17:54:21
+mental performance optimized, code performance untouched; preparing for sprints.
+
