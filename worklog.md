@@ -2032,3 +2032,6 @@ optimized thought processes, runtime unchanged; efficiency in theory.
 ## 2020-07-16T14:11:52
 conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 
+## 2020-07-16T12:19:43
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
