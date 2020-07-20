@@ -2068,3 +2068,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2020-07-20T22:46:11
 explored the problem space, solution space unexpressed; coding is more than typing.
 
+## 2020-07-20T11:53:03
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
