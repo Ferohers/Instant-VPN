@@ -2065,3 +2065,6 @@ explored asynchronous patterns, callbacks unwritten; concurrent thinking exercis
 ## 2020-07-20T17:38:19
 interface designs sketched mentally, APIs unchanged; UX of the mind.
 
+## 2020-07-20T22:46:11
+explored the problem space, solution space unexpressed; coding is more than typing.
+
