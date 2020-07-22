@@ -2086,3 +2086,6 @@ considered scalability, scaled back coding; strategic pause for future growth.
 ## 2020-07-21T21:01:34
 theoretical optimizations considered, practical ones deferred; thinking before leaping.
 
+## 2020-07-21T19:16:26
+considered logging strategies, log files unchanging; traceability in theory.
+
