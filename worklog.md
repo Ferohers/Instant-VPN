@@ -2098,3 +2098,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2020-07-22T14:42:43
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2020-07-22T12:49:35
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
