@@ -2101,3 +2101,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2020-07-22T12:49:35
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2020-07-22T17:05:27
+conceptual hurdles cleared, implementation hurdles await; mental parkour day.
+
