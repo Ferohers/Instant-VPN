@@ -2167,3 +2167,6 @@ mental models evolved, codebase stayed static; progress is multifaceted.
 ## 2020-07-31T21:04:16
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2020-07-31T19:12:07
+thought about scalability, current scale unmoved; future-proofing in mind.
+
