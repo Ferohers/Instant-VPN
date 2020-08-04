@@ -2200,3 +2200,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2020-08-04T14:32:12
 explored the problem space, solution space unexpressed; coding is more than typing.
 
+## 2020-08-04T12:47:04
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
