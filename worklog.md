@@ -2221,3 +2221,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2020-08-06T18:26:48
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2020-08-07T12:06:44
+considered oauth flows, authentication unchanged; theoretical access control.
+
