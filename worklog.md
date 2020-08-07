@@ -2218,3 +2218,6 @@ mental circuit breaking, services fully connected; theoretical fault isolation.
 ## 2020-08-06T14:19:57
 mental code signing, certificates unexpired; security in principle.
 
+## 2020-08-06T18:26:48
+explored service mesh concepts, network calls direct; theoretical request routing.
+
