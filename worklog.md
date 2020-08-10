@@ -2227,3 +2227,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2020-08-10T10:16:46
 ideated on interface design, UI unchanged; conceptual user experience work.
 
+## 2020-08-10T15:31:38
+considered containerization, docker-free day; isolation in thought only.
+
