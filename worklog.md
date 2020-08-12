@@ -2257,3 +2257,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2020-08-11T20:14:18
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2020-08-12T12:56:13
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
