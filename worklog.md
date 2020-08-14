@@ -2263,3 +2263,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2020-08-13T17:12:48
 interface designs sketched mentally, APIs unchanged; UX of the mind.
 
+## 2020-08-13T21:19:39
+explored web assembly, javascript dominant; theoretical performance optimization.
+
