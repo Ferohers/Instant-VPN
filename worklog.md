@@ -2260,3 +2260,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2020-08-12T12:56:13
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2020-08-13T17:12:48
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
