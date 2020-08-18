@@ -2302,3 +2302,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2020-08-17T11:52:26
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2020-08-18T16:02:40
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
