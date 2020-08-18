@@ -2311,3 +2311,6 @@ considered helm charts, kubernetes clusters imaginary; theoretical container orc
 ## 2020-08-18T18:35:29
 mental security audit conducted, vulnerabilities unexploited; theoretical penetration testing.
 
+## 2020-08-18T16:43:21
+explored the forest, trees remain untouched; zooming out has value.
+
