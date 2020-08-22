@@ -2335,3 +2335,6 @@ evaluated trade-offs, decisions pending; weighing options is progress too.
 ## 2020-08-22T21:35:46
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2020-08-22T11:42:37
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
