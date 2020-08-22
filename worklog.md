@@ -2323,3 +2323,6 @@ rich in consideration, poor in commits; the developer's paradox.
 ## 2020-08-20T11:20:08
 mental code signing, certificates unexpired; security in principle.
 
+## 2020-08-22T14:04:19
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
