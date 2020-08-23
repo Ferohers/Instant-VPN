@@ -2326,3 +2326,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2020-08-22T14:04:19
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2020-08-22T19:12:03
+considered helm charts, kubernetes clusters imaginary; theoretical container orchestration.
+
