@@ -2362,3 +2362,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2020-08-25T12:42:47
 considered technical debt, repayment plans drafted; financial planning for code.
 
+## 2020-08-25T10:58:39
+mental feature toggles, all features on; theoretical selective execution.
+
