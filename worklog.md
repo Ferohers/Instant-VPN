@@ -2371,3 +2371,6 @@ mental gears turned, yet commit log remained static; onward to tomorrow.
 ## 2020-08-25T13:13:22
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2020-08-26T19:02:57
+explored web assembly, javascript dominant; theoretical performance optimization.
+
