@@ -2401,3 +2401,6 @@ considered edge cases, test cases not yet written; defensive thinking.
 ## 2020-09-01T15:33:51
 mental performance optimized, code performance untouched; preparing for sprints.
 
+## 2020-09-01T13:40:43
+considered continuous integration, deployment continuous only in mind; DevOps dreaming.
+
