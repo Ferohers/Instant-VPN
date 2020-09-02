@@ -2404,3 +2404,6 @@ mental performance optimized, code performance untouched; preparing for sprints.
 ## 2020-09-01T13:40:43
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2020-09-01T18:47:34
+deepened domain knowledge, domain objects unchanged; context-building phase.
+
