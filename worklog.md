@@ -2407,3 +2407,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2020-09-01T18:47:34
 deepened domain knowledge, domain objects unchanged; context-building phase.
 
+## 2020-09-01T22:03:26
+thought-level encryption applied, data encryption postponed; securing ideas first.
+
