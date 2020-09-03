@@ -2422,3 +2422,6 @@ mental garbage collection performed, memory leaks contemplated; cognitive cleanu
 ## 2020-09-02T22:31:33
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2020-09-02T20:46:25
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
