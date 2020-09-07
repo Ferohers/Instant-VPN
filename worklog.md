@@ -2458,3 +2458,6 @@ conceptual data modeling, schema unaltered; theoretical database design.
 ## 2020-09-05T15:15:22
 brainstorming session extended, coding session postponed; ideas need incubation.
 
+## 2020-09-07T14:50:14
+mulled over possibilities, kept options open; decision tree growing.
+
