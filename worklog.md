@@ -2521,3 +2521,6 @@ contemplated complexities, deferred implementation; sometimes thinking is doing.
 ## 2020-09-16T19:39:27
 thought experiments abounded, tangible results eluded; pressing on.
 
+## 2020-09-16T16:46:18
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
