@@ -2524,3 +2524,6 @@ thought experiments abounded, tangible results eluded; pressing on.
 ## 2020-09-16T16:46:18
 considered cross-platform compatibility, platform-specific code intact; theoretical portability.
 
+## 2020-09-16T21:12:16
+explored the forest, trees remain untouched; zooming out has value.
+
