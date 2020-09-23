@@ -2554,3 +2554,6 @@ thought experiments abounded, tangible results eluded; pressing on.
 ## 2020-09-22T13:58:04
 mental api gateway design, direct service calls ongoing; theoretical request management.
 
+## 2020-09-23T14:51:14
+explored web assembly, javascript dominant; theoretical performance optimization.
+
