@@ -2560,3 +2560,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2020-09-24T10:58:27
 rehearsed implementations mentally, keyboard got a rest; preparation is key.
 
+## 2020-09-24T15:06:19
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
