@@ -2557,3 +2557,6 @@ mental api gateway design, direct service calls ongoing; theoretical request man
 ## 2020-09-23T14:51:14
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2020-09-24T10:58:27
+rehearsed implementations mentally, keyboard got a rest; preparation is key.
+
