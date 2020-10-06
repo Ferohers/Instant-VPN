@@ -2635,3 +2635,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2020-10-05T17:20:13
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2020-10-05T21:28:04
+conceptual unit tests passed, actual tests unwritten; mental QA day.
+
