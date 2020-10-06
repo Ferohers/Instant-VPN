@@ -2638,3 +2638,6 @@ deliberated deeply, committed shallowly; the essence of careful development.
 ## 2020-10-05T21:28:04
 conceptual unit tests passed, actual tests unwritten; mental QA day.
 
+## 2020-10-05T19:35:56
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
