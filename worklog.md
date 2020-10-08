@@ -2656,3 +2656,6 @@ mental load balancing performed, system load unchanged; cognitive resource manag
 ## 2020-10-07T21:06:16
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2020-10-07T19:14:08
+explored the forest, trees remain untouched; zooming out has value.
+
