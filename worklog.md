@@ -2683,3 +2683,6 @@ practiced rubber duck debugging sans duck or debug; introspective development da
 ## 2020-10-09T23:36:59
 mental thread pooling, single-threaded execution continued; concurrency in thought.
 
+## 2020-10-09T13:51:51
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
