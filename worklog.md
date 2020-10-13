@@ -2701,3 +2701,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2020-10-13T11:07:44
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2020-10-13T16:15:36
+mapped the problem domain, code domain unexplored; charting the course.
+
