@@ -2686,3 +2686,6 @@ mental thread pooling, single-threaded execution continued; concurrency in thoug
 ## 2020-10-09T13:51:51
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2020-10-12T20:42:09
+pondered blue-green deployments, single environment stable; zero-downtime theories.
+
