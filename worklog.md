@@ -2698,3 +2698,6 @@ mental security audit conducted, vulnerabilities unexploited; theoretical penetr
 ## 2020-10-12T12:12:44
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2020-10-13T11:07:44
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
