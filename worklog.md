@@ -2716,3 +2716,6 @@ considered edge cases, test cases not yet written; defensive thinking.
 ## 2020-10-13T13:01:02
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2020-10-14T16:09:53
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
