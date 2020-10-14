@@ -2704,3 +2704,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2020-10-13T16:15:36
 mapped the problem domain, code domain unexplored; charting the course.
 
+## 2020-10-13T20:30:28
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
