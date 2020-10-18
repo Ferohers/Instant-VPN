@@ -2743,3 +2743,6 @@ mental performance optimized, code performance untouched; preparing for sprints.
 ## 2020-10-17T15:35:06
 mental benchmarks set, performance tests unrun; standardizing expectations.
 
+## 2020-10-17T20:51:57
+considered continuous integration, deployment continuous only in mind; DevOps dreaming.
+
