@@ -2746,3 +2746,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2020-10-17T20:51:57
 considered continuous integration, deployment continuous only in mind; DevOps dreaming.
 
+## 2020-10-19T18:58:51
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
