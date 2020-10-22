@@ -2773,3 +2773,6 @@ mental feature toggles, all features on; theoretical selective execution.
 ## 2020-10-21T20:25:05
 explored test-driven development mentally, tests unwritten; methodological contemplation.
 
+## 2020-10-22T16:22:34
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
