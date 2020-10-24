@@ -2776,3 +2776,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2020-10-22T16:22:34
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2020-10-23T17:27:10
+rich in consideration, poor in commits; the developer's paradox.
+
