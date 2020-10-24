@@ -2791,3 +2791,6 @@ thought experiments abounded, tangible results eluded; pressing on.
 ## 2020-10-24T17:55:06
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2020-10-24T15:10:58
+mapped the problem domain, code domain unexplored; charting the course.
+
