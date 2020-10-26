@@ -2794,3 +2794,6 @@ traversed decision trees, leaves yet to be implemented; mapping the possibilitie
 ## 2020-10-24T15:10:58
 mapped the problem domain, code domain unexplored; charting the course.
 
+## 2020-10-26T11:57:53
+explored design patterns, pattern implementation pending; architectural musings.
+
