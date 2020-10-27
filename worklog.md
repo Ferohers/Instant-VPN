@@ -2806,3 +2806,6 @@ mental models evolved, codebase stayed static; progress is multifaceted.
 ## 2020-10-27T19:35:51
 considered content delivery networks, origin servers busy; theoretical edge computing.
 
+## 2020-10-27T09:43:43
+considered database sharding, monolithic db humming; theoretical data distribution.
+
