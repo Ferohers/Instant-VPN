@@ -2803,3 +2803,6 @@ practiced mental pair programming, solo coding in reality; collaborative visuali
 ## 2020-10-26T13:12:36
 mental models evolved, codebase stayed static; progress is multifaceted.
 
+## 2020-10-27T19:35:51
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
