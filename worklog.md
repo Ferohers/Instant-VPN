@@ -2809,3 +2809,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2020-10-27T09:43:43
 considered database sharding, monolithic db humming; theoretical data distribution.
 
+## 2020-10-27T21:50:34
+explored edge cases mentally, test cases not yet written; proactive thinking.
+
