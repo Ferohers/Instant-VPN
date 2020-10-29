@@ -2821,3 +2821,6 @@ conducted thought experiments, real experiments postponed; hypothesis before tes
 ## 2020-10-29T15:46:47
 contemplated code comments, documentation debt grew; mental note-taking.
 
+## 2020-10-29T13:01:38
+considered containerization, docker-free day; isolation in thought only.
+
