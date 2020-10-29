@@ -2815,3 +2815,6 @@ explored edge cases mentally, test cases not yet written; proactive thinking.
 ## 2020-10-28T23:27:03
 explored test-driven development mentally, tests unwritten; methodological contemplation.
 
+## 2020-10-28T21:34:54
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
