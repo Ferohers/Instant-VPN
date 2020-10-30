@@ -2830,3 +2830,6 @@ explored machine learning models, training data hypothetical; ai brainstorming s
 ## 2020-10-29T23:16:22
 brainstormed feature ideas, backlog unchanged; conceptual product planning.
 
+## 2020-10-30T10:25:50
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
