@@ -2839,3 +2839,6 @@ theoretical advances made, practical applications pending; development's ebb and
 ## 2020-10-30T12:48:33
 ideas germinated, code hibernated; nurturing future implementations.
 
+## 2020-10-31T12:00:21
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
