@@ -2854,3 +2854,6 @@ brainstorming session extended, coding session postponed; ideas need incubation.
 ## 2020-11-02T21:55:18
 explored the problem space, solution space unexpressed; coding is more than typing.
 
+## 2020-11-03T14:43:47
+considered a/b testing strategies, user experience constant; theoretical experimentation.
+
