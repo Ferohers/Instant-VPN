@@ -2863,3 +2863,6 @@ explored machine learning models, training data hypothetical; ai brainstorming s
 ## 2020-11-03T17:05:30
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2020-11-03T22:13:22
+thought about code reviews, pull requests unopened; peer review visualization.
+
