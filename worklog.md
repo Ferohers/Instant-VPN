@@ -2887,3 +2887,6 @@ contemplated clean code principles, mess remains; aspirational development.
 ## 2020-11-04T21:07:51
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2020-11-05T14:12:47
+thought about cache invalidation, cache hits steady; conceptual performance tuning.
+
