@@ -2935,3 +2935,6 @@ thought compilation successful, code compilation postponed; mental dry runs.
 ## 2020-11-11T15:52:56
 conceptual unit tests passed, actual tests unwritten; mental QA day.
 
+## 2020-11-11T20:07:48
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
