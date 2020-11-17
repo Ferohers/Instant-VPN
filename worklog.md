@@ -2974,3 +2974,6 @@ thoughts compiled successfully, code compilation postponed; cognitive sprints ma
 ## 2020-11-17T10:39:12
 algorithms pondered, implementation postponed; strategy before tactics.
 
+## 2020-11-17T15:46:04
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
