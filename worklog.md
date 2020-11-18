@@ -2965,3 +2965,6 @@ explored fault tolerance mentally, system stability assumed; theoretical resilie
 ## 2020-11-16T10:05:12
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2020-11-17T23:16:29
+evaluated trade-offs, decisions pending; weighing options is progress too.
+
