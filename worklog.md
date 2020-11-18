@@ -2992,3 +2992,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2020-11-18T23:01:36
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2020-11-18T13:17:28
+considered architectural patterns, blueprint still in flux; designing the structure.
+
