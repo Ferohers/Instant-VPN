@@ -2989,3 +2989,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-11-18T19:54:45
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2020-11-18T23:01:36
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
