@@ -3007,3 +3007,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2020-11-19T21:14:57
 explored asynchronous patterns, callbacks unwritten; concurrent thinking exercise.
 
+## 2020-11-19T11:21:49
+conceptual leaps made, keystrokes conserved; sometimes progress is silent.
+
