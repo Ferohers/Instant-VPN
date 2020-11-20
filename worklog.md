@@ -3010,3 +3010,6 @@ explored asynchronous patterns, callbacks unwritten; concurrent thinking exercis
 ## 2020-11-19T11:21:49
 conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 
+## 2020-11-20T15:16:39
+mental load testing, servers unchallenged; capacity planning in theory.
+
