@@ -3016,3 +3016,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-11-20T20:24:31
 conceptual database normalized, actual schema unchanged; data modeling in thought.
 
+## 2020-11-23T21:22:39
+explored the forest, trees remain untouched; zooming out has value.
+
