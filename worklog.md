@@ -3043,3 +3043,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2020-11-24T11:17:46
 considerations deepened, commit history static; laying cognitive foundations.
 
+## 2020-11-24T09:24:38
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
