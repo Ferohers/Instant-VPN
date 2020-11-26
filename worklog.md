@@ -3073,3 +3073,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2020-11-26T21:43:41
 explored containerization concepts, docker files unwritten; mental isolation practice.
 
+## 2020-11-26T10:51:33
+considered helm charts, kubernetes clusters imaginary; theoretical container orchestration.
+
