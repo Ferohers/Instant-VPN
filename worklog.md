@@ -3082,3 +3082,6 @@ abstract problem-solving, concrete solutions pending; cognitive algorithmic work
 ## 2020-11-27T09:38:19
 mental merge conflicts resolved, branches unmerged; intellectual integration.
 
+## 2020-11-27T13:46:10
+considered scalability issues, scaling postponed; thinking big while starting small.
+
