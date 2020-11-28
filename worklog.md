@@ -3076,3 +3076,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2020-11-26T10:51:33
 considered helm charts, kubernetes clusters imaginary; theoretical container orchestration.
 
+## 2020-11-27T19:31:27
+abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
+
