@@ -3088,3 +3088,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2020-11-27T11:01:02
 invested in mental models, dividends pending in code; long-term development strategy.
 
+## 2020-11-27T16:09:54
+mental load testing, servers unchallenged; capacity planning in theory.
+
