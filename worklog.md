@@ -3100,3 +3100,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2020-11-30T19:52:44
 pondered serverless architecture, servers still humming; cloud-native contemplation.
 
+## 2020-11-30T09:59:36
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
