@@ -3103,3 +3103,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2020-11-30T09:59:36
 contemplated complexities, deferred implementation; sometimes thinking is doing.
 
+## 2020-11-30T14:15:28
+pondered graceful degradation, full functionality maintained; theoretical fail-safes.
+
