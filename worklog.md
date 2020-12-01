@@ -3097,3 +3097,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2020-11-30T21:44:53
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2020-11-30T19:52:44
+pondered serverless architecture, servers still humming; cloud-native contemplation.
+
