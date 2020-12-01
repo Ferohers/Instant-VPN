@@ -3094,3 +3094,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2020-11-27T21:16:45
 pondered design patterns, implementations archetypal; architectural musings.
 
+## 2020-11-30T21:44:53
+considered hot code reloading, restarts required; theoretical continuous operation.
+
