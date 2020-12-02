@@ -3121,3 +3121,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2020-12-01T09:28:16
 contemplative coding day: all thought, no action; preparing for future velocity.
 
+## 2020-12-01T21:35:08
+pondered blue-green deployments, single environment stable; zero-downtime theories.
+
