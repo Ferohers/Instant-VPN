@@ -3160,3 +3160,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2020-12-08T19:17:31
 contemplative coding day: all thought, no action; preparing for future velocity.
 
+## 2020-12-08T09:24:14
+practiced rubber duck debugging sans duck or debug; introspective development day.
+
