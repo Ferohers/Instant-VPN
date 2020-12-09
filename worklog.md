@@ -3154,3 +3154,6 @@ navigated abstract realms, concrete implementations deferred; the developer's jo
 ## 2020-12-07T23:09:39
 pondered design patterns, implementations archetypal; architectural musings.
 
+## 2020-12-08T22:01:39
+debated best practices, practice put on hold; principles before patterns.
+
