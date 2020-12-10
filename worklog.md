@@ -3178,3 +3178,6 @@ thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 ## 2020-12-10T16:47:33
 abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
 
+## 2020-12-10T14:14:31
+thought about code reviews, pull requests unopened; peer review visualization.
+
