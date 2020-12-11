@@ -3187,3 +3187,6 @@ mental memory management, garbage collector idle; cognitive resource allocation.
 ## 2020-12-11T17:29:03
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2020-12-11T15:36:55
+abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
+
