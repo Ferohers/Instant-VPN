@@ -3193,3 +3193,6 @@ abstract problem-solving, concrete solutions pending; cognitive algorithmic work
 ## 2020-12-11T19:52:46
 mental merge conflicts resolved, branches unmerged; intellectual integration.
 
+## 2020-12-11T17:59:38
+considered containerization, docker-free day; isolation in thought only.
+
