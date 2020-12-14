@@ -3211,3 +3211,6 @@ mental canary releases, full rollouts standard; theoretical gradual deployment.
 ## 2020-12-12T12:25:00
 pondered much, produced little; tomorrow's another chance.
 
+## 2020-12-14T14:16:43
+explored service mesh concepts, network calls direct; theoretical request routing.
+
