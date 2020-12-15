@@ -3220,3 +3220,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2020-12-14T23:31:19
 ideas flowed, but code didn't; contemplation was today's output.
 
+## 2020-12-15T15:13:35
+considered a/b testing strategies, user experience constant; theoretical experimentation.
+
