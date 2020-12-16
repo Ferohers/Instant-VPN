@@ -3232,3 +3232,6 @@ code readability contemplated, style guide adherence pending; clarity in concept
 ## 2020-12-15T22:35:10
 expanded problem awareness, solution implementation pending; clarity before coding.
 
+## 2020-12-15T20:51:02
+explored web assembly, javascript dominant; theoretical performance optimization.
+
