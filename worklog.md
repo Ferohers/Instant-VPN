@@ -3256,3 +3256,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2020-12-17T10:52:38
 mental performance optimized, code performance untouched; preparing for sprints.
 
+## 2020-12-17T14:08:29
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
