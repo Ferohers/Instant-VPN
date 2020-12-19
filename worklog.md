@@ -3262,3 +3262,6 @@ considered cross-platform compatibility, platform-specific code intact; theoreti
 ## 2020-12-17T19:15:21
 pondered graceful degradation, full functionality maintained; theoretical fail-safes.
 
+## 2020-12-18T21:32:48
+considered architectural patterns, blueprint still in flux; designing the structure.
+
