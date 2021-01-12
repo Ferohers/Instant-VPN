@@ -3418,3 +3418,6 @@ cerebral productivity peaked, while GitHub sat idle; tomorrow we code.
 ## 2021-01-12T21:38:08
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2021-01-12T11:45:00
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
