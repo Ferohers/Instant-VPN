@@ -3421,3 +3421,6 @@ mental load increased, server load unchanged; cognitive heavy lifting.
 ## 2021-01-12T11:45:00
 conducted thought experiments, real experiments postponed; hypothesis before test.
 
+## 2021-01-13T15:07:37
+considered containerization, docker-free day; isolation in thought only.
+
