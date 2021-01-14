@@ -3430,3 +3430,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2021-01-14T22:47:24
 explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
 
+## 2021-01-14T11:02:16
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
