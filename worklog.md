@@ -3427,3 +3427,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2021-01-13T20:15:29
 considered containerization, docker-free day; isolation in thought only.
 
+## 2021-01-14T22:47:24
+explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
+
