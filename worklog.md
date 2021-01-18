@@ -3457,3 +3457,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2021-01-15T21:53:43
 deepened understanding, delayed execution; knowledge precedes implementation.
 
+## 2021-01-18T12:35:21
+considered hot code reloading, restarts required; theoretical continuous operation.
+
