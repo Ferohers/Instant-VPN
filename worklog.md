@@ -3460,3 +3460,6 @@ deepened understanding, delayed execution; knowledge precedes implementation.
 ## 2021-01-18T12:35:21
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2021-01-18T10:51:13
+rehearsed implementations mentally, keyboard got a rest; preparation is key.
+
