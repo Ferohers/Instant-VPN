@@ -3463,3 +3463,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2021-01-18T10:51:13
 rehearsed implementations mentally, keyboard got a rest; preparation is key.
 
+## 2021-01-19T18:41:14
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
