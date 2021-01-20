@@ -3466,3 +3466,6 @@ rehearsed implementations mentally, keyboard got a rest; preparation is key.
 ## 2021-01-19T18:41:14
 dived deep into theory, implementation remained shallow; foundations before buildings.
 
+## 2021-01-19T16:49:06
+considered scalability issues, scaling postponed; thinking big while starting small.
+
