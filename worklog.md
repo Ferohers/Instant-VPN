@@ -3493,3 +3493,6 @@ algorithm efficiency considered, implementation efficiency deferred; big O think
 ## 2021-01-21T19:06:02
 rehearsed implementations mentally, keyboard got a rest; preparation is key.
 
+## 2021-01-21T09:14:54
+explored the problem space, solution space unexpressed; coding is more than typing.
+
