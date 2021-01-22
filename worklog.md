@@ -3490,3 +3490,6 @@ mental garbage collection performed, memory leaks contemplated; cognitive cleanu
 ## 2021-01-21T15:59:11
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2021-01-21T19:06:02
+rehearsed implementations mentally, keyboard got a rest; preparation is key.
+
