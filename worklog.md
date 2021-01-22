@@ -3496,3 +3496,6 @@ rehearsed implementations mentally, keyboard got a rest; preparation is key.
 ## 2021-01-21T09:14:54
 explored the problem space, solution space unexpressed; coding is more than typing.
 
+## 2021-01-21T22:29:45
+deepened understanding, delayed execution; knowledge precedes implementation.
+
