@@ -3520,3 +3520,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2021-01-23T11:38:08
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2021-01-23T09:54:59
+abstract problem-solving, concrete solutions pending; cognitive algorithmic work.
+
