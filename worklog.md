@@ -3613,3 +3613,6 @@ optimized thought processes, runtime unchanged; efficiency in theory.
 ## 2021-02-08T19:04:49
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2021-02-08T17:11:40
+conceptual refactoring day, codebase refactoring pending; reshaping ideas.
+
