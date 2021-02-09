@@ -3610,3 +3610,6 @@ brainstormed extensively, implemented naught; future fruits await.
 ## 2021-02-04T12:50:01
 optimized thought processes, runtime unchanged; efficiency in theory.
 
+## 2021-02-08T19:04:49
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
