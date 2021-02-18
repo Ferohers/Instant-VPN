@@ -3664,3 +3664,6 @@ mapped the problem domain, code domain unexplored; charting the course.
 ## 2021-02-16T19:07:44
 brainstormed feature ideas, backlog unchanged; conceptual product planning.
 
+## 2021-02-17T16:18:40
+considered scalability issues, scaling postponed; thinking big while starting small.
+
