@@ -3688,3 +3688,6 @@ conceptual unit tests passed, actual tests unwritten; mental QA day.
 ## 2021-02-18T15:09:00
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-02-18T20:16:51
+considered scalability, scaled back coding; strategic pause for future growth.
+
