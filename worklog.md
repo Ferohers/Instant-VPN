@@ -3769,3 +3769,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2021-02-26T09:30:52
 explored machine learning models, training data hypothetical; ai brainstorming session.
 
+## 2021-02-26T14:45:43
+thought about scalability, current scale unmoved; future-proofing in mind.
+
