@@ -3883,3 +3883,6 @@ explored the solution maze, exit not yet found; mapping the territory.
 ## 2021-03-10T19:14:00
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2021-03-10T09:21:52
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
