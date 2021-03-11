@@ -3892,3 +3892,6 @@ explored design patterns, pattern implementation pending; architectural musings.
 ## 2021-03-11T20:13:29
 explored blockchain concepts, distributed ledger imaginary; decentralized thinking.
 
+## 2021-03-11T10:21:21
+considered oauth flows, authentication unchanged; theoretical access control.
+
