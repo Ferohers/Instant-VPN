@@ -3880,3 +3880,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2021-03-10T21:58:09
 explored the solution maze, exit not yet found; mapping the territory.
 
+## 2021-03-10T19:14:00
+considered logging strategies, log files unchanging; traceability in theory.
+
