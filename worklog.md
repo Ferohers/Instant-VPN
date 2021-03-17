@@ -3922,3 +3922,6 @@ pondered database indexing, query performance theoretical; mental query optimiza
 ## 2021-03-16T21:47:03
 debated best practices, practice put on hold; principles before patterns.
 
+## 2021-03-17T14:17:10
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
