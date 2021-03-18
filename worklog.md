@@ -3925,3 +3925,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2021-03-17T14:17:10
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2021-03-17T19:24:01
+considered continuous integration, deployment continuous only in mind; DevOps dreaming.
+
