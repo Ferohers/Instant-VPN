@@ -3931,3 +3931,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2021-03-17T09:39:53
 mental models evolved, codebase stayed static; progress is multifaceted.
 
+## 2021-03-18T17:54:02
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
