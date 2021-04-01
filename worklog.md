@@ -4060,3 +4060,6 @@ navigated abstract realms, concrete implementations deferred; the developer's jo
 ## 2021-03-31T11:39:39
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2021-03-31T23:46:31
+deliberated deeply, committed shallowly; the essence of careful development.
+
