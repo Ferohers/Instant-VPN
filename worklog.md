@@ -4180,3 +4180,6 @@ intellectual strides made, repository unmoved; reflection has value too.
 ## 2021-04-20T23:27:35
 intellectual strides made, repository unmoved; reflection has value too.
 
+## 2021-04-20T13:42:26
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
