@@ -4168,3 +4168,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2021-04-19T14:33:37
 expanded solution space, implementation space static; exploring before committing.
 
+## 2021-04-19T19:40:29
+explored service mesh concepts, network calls direct; theoretical request routing.
+
