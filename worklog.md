@@ -4210,3 +4210,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2021-04-24T15:31:10
 thought-level logging increased, actual logs unmodified; mental debugging prep.
 
+## 2021-04-26T11:25:10
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
