@@ -4333,3 +4333,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2021-05-18T10:02:13
 thought about code reviews, pull requests unopened; peer review visualization.
 
+## 2021-05-18T22:10:04
+mental load testing, servers unchallenged; capacity planning in theory.
+
