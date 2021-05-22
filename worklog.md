@@ -4369,3 +4369,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2021-05-22T14:39:21
 explored asynchronous patterns, callbacks unwritten; concurrent thinking exercise.
 
+## 2021-05-22T12:46:13
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
