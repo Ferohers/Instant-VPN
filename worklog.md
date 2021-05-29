@@ -4435,3 +4435,6 @@ intellectual strides made, repository unmoved; reflection has value too.
 ## 2021-05-28T17:58:54
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2021-05-28T22:05:45
+considered scalability issues, scaling postponed; thinking big while starting small.
+
