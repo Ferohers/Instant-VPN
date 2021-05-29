@@ -4438,3 +4438,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2021-05-28T22:05:45
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2021-05-28T20:13:37
+explored the problem space, solution space unexpressed; coding is more than typing.
+
