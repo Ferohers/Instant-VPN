@@ -4486,3 +4486,6 @@ considered logging strategies, log files unchanging; traceability in theory.
 ## 2021-06-03T12:05:50
 practiced rubber duck debugging sans duck or debug; introspective development day.
 
+## 2021-06-03T10:13:41
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
