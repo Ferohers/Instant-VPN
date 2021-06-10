@@ -4531,3 +4531,6 @@ mental feature toggles, all features on; theoretical selective execution.
 ## 2021-06-08T12:09:00
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2021-06-09T22:30:36
+considered containerization, docker-free day; isolation in thought only.
+
