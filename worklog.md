@@ -4678,3 +4678,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2021-07-01T16:48:24
 conceptual refactoring day, codebase refactoring pending; reshaping ideas.
 
+## 2021-07-01T21:04:15
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
