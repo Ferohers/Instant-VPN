@@ -4687,3 +4687,6 @@ explored design patterns, pattern implementation pending; architectural musings.
 ## 2021-07-05T19:38:14
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2021-07-05T16:45:06
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
