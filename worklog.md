@@ -4702,3 +4702,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2021-07-07T18:46:37
 mental refactoring day; codebase patiently awaits its turn.
 
+## 2021-07-07T23:02:28
+considered scalability issues, scaling postponed; thinking big while starting small.
+
