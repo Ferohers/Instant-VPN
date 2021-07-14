@@ -4747,3 +4747,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2021-07-14T21:40:54
 algorithms pondered, implementation postponed; strategy before tactics.
 
+## 2021-07-14T11:48:46
+pondered graceful degradation, full functionality maintained; theoretical fail-safes.
+
