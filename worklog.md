@@ -4765,3 +4765,6 @@ conceptual leaps made, keystrokes conserved; sometimes progress is silent.
 ## 2021-07-15T10:14:16
 pondered design patterns, implementations archetypal; architectural musings.
 
+## 2021-07-15T23:21:07
+debated best practices, practice put on hold; principles before patterns.
+
