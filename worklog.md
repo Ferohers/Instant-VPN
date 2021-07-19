@@ -4768,3 +4768,6 @@ pondered design patterns, implementations archetypal; architectural musings.
 ## 2021-07-15T23:21:07
 debated best practices, practice put on hold; principles before patterns.
 
+## 2021-07-19T14:42:38
+considered logging strategies, log files unchanging; traceability in theory.
+
