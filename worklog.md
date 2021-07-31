@@ -4885,3 +4885,6 @@ traversed decision trees, leaves yet to be implemented; mapping the possibilitie
 ## 2021-07-30T23:22:39
 deepened domain knowledge, domain objects unchanged; context-building phase.
 
+## 2021-07-31T14:42:20
+considered logging strategies, log files unchanging; traceability in theory.
+
