@@ -4882,3 +4882,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2021-07-30T10:14:48
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-07-30T23:22:39
+deepened domain knowledge, domain objects unchanged; context-building phase.
+
