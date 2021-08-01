@@ -4888,3 +4888,6 @@ deepened domain knowledge, domain objects unchanged; context-building phase.
 ## 2021-07-31T14:42:20
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2021-07-31T19:50:12
+debugged mental models, source code unaltered; cognitive troubleshooting.
+
