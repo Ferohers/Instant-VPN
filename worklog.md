@@ -5098,3 +5098,6 @@ API design pondered, endpoints undocumented; interface ideation day.
 ## 2021-08-30T09:44:06
 thought-level logging increased, actual logs unmodified; mental debugging prep.
 
+## 2021-08-31T23:02:46
+considered hot code reloading, restarts required; theoretical continuous operation.
+
