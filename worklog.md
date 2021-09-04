@@ -5131,3 +5131,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2021-09-03T19:14:05
 thought-level logging increased, actual logs unmodified; mental debugging prep.
 
+## 2021-09-03T17:22:56
+considered logging strategies, log files unchanging; traceability in theory.
+
