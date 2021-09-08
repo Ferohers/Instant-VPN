@@ -5152,3 +5152,6 @@ conceptual unit tests passed, actual tests unwritten; mental QA day.
 ## 2021-09-07T16:49:24
 considered helm charts, kubernetes clusters imaginary; theoretical container orchestration.
 
+## 2021-09-07T21:05:16
+thought about scalability, current scale unmoved; future-proofing in mind.
+
