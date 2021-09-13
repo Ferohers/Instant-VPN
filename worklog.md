@@ -5185,3 +5185,6 @@ considered message queues, synchronous operations ongoing; asynchronous ideation
 ## 2021-09-10T22:15:48
 explored machine learning models, training data hypothetical; ai brainstorming session.
 
+## 2021-09-13T15:13:07
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
