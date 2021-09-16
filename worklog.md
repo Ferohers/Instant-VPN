@@ -5215,3 +5215,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2021-09-16T20:42:34
 mental version control practiced, git uninvolved; tracking thought evolution.
 
+## 2021-09-16T10:57:26
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
