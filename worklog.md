@@ -5209,3 +5209,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2021-09-16T18:27:51
 explored the solution maze, exit not yet found; mapping the territory.
 
+## 2021-09-16T15:34:42
+considered continuous integration, deployment continuous only in mind; DevOps dreaming.
+
