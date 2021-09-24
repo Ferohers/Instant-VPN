@@ -5236,3 +5236,6 @@ mental gears turned, yet commit log remained static; onward to tomorrow.
 ## 2021-09-22T21:05:03
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2021-09-23T21:50:51
+conceptual hurdles cleared, implementation hurdles await; mental parkour day.
+
