@@ -5344,3 +5344,6 @@ mental load balancing performed, server loads theoretical; thought distribution.
 ## 2021-10-07T16:24:01
 ideas percolated, execution postponed; tomorrow's another dev day.
 
+## 2021-10-11T14:34:10
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
