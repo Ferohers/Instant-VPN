@@ -5347,3 +5347,6 @@ ideas percolated, execution postponed; tomorrow's another dev day.
 ## 2021-10-11T14:34:10
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2021-10-11T19:41:02
+mental graphql schema design, rest apis undisturbed; theoretical data querying.
+
