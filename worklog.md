@@ -5353,3 +5353,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2021-10-11T09:48:54
 pondered eventual consistency, strong consistency maintained; theoretical distributed systems.
 
+## 2021-10-12T18:07:31
+explored the problem space, solution space unexpressed; coding is more than typing.
+
