@@ -5407,3 +5407,6 @@ considered database sharding, monolithic db humming; theoretical data distributi
 ## 2021-10-19T17:48:43
 explored event sourcing, state mutations ongoing; theoretical audit trails.
 
+## 2021-10-20T15:06:47
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
