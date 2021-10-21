@@ -5416,3 +5416,6 @@ brainstormed extensively, implemented naught; future fruits await.
 ## 2021-10-21T18:27:27
 algorithm efficiency considered, implementation efficiency deferred; big O thinking.
 
+## 2021-10-21T16:35:18
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
