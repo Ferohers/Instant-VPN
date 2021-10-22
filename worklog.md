@@ -5413,3 +5413,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2021-10-21T13:20:35
 brainstormed extensively, implemented naught; future fruits await.
 
+## 2021-10-21T18:27:27
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
