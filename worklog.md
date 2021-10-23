@@ -5428,3 +5428,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2021-10-22T23:27:25
 contemplated api versioning, endpoints stable; future-proofing interfaces mentally.
 
+## 2021-10-22T21:42:16
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
