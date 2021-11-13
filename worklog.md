@@ -5563,3 +5563,6 @@ mental load testing, servers unchallenged; capacity planning in theory.
 ## 2021-11-12T19:10:48
 explored asynchronous patterns, callbacks unwritten; concurrent thinking exercise.
 
+## 2021-11-12T16:25:40
+mulled over possibilities, kept options open; decision tree growing.
+
