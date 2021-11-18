@@ -5620,3 +5620,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2021-11-17T16:09:20
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2021-11-18T12:32:03
+expanded solution space, implementation space static; exploring before committing.
+
