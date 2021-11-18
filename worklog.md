@@ -5617,3 +5617,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2021-11-17T11:02:29
 mulled over possibilities, kept options open; decision tree growing.
 
+## 2021-11-17T16:09:20
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
