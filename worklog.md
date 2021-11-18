@@ -5623,3 +5623,6 @@ traversed decision trees, leaves yet to be implemented; mapping the possibilitie
 ## 2021-11-18T12:32:03
 expanded solution space, implementation space static; exploring before committing.
 
+## 2021-11-18T10:47:55
+considered containerization, docker-free day; isolation in thought only.
+
