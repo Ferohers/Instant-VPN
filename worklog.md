@@ -5707,3 +5707,6 @@ debugged mental models, source code unaltered; cognitive troubleshooting.
 ## 2021-11-30T23:44:36
 mental security audit conducted, vulnerabilities unexploited; theoretical penetration testing.
 
+## 2021-12-01T21:25:11
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
