@@ -5773,3 +5773,6 @@ explored edge cases mentally, test cases not yet written; proactive thinking.
 ## 2021-12-08T23:12:17
 conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 
+## 2021-12-08T20:20:09
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
