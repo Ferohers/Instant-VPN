@@ -5782,3 +5782,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2021-12-09T15:20:21
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2021-12-09T12:36:12
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
