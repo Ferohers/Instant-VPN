@@ -5779,3 +5779,6 @@ considered content delivery networks, origin servers busy; theoretical edge comp
 ## 2021-12-08T10:27:01
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2021-12-09T15:20:21
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
