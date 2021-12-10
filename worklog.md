@@ -5797,3 +5797,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2021-12-09T09:13:39
 debated best practices, practice put on hold; principles before patterns.
 
+## 2021-12-10T09:32:31
+conceptual hurdles cleared, implementation hurdles await; mental parkour day.
+
