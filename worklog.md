@@ -5800,3 +5800,6 @@ debated best practices, practice put on hold; principles before patterns.
 ## 2021-12-10T09:32:31
 conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 
+## 2021-12-13T11:04:46
+interface designs sketched mentally, APIs unchanged; UX of the mind.
+
