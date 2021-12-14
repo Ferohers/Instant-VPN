@@ -5806,3 +5806,6 @@ interface designs sketched mentally, APIs unchanged; UX of the mind.
 ## 2021-12-13T16:11:38
 explored numerous avenues, arrived at no destination; journey continues.
 
+## 2021-12-13T20:19:29
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
