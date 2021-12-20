@@ -5860,3 +5860,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2021-12-20T11:51:20
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2021-12-20T09:58:12
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
