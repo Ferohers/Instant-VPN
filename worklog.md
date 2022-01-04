@@ -5998,3 +5998,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2022-01-04T13:16:10
 ideas percolated, execution postponed; tomorrow's another dev day.
 
+## 2022-01-04T11:24:01
+thought about code reviews, pull requests unopened; peer review visualization.
+
