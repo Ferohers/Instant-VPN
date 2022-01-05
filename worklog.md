@@ -6001,3 +6001,6 @@ ideas percolated, execution postponed; tomorrow's another dev day.
 ## 2022-01-04T11:24:01
 thought about code reviews, pull requests unopened; peer review visualization.
 
+## 2022-01-04T16:39:53
+considered containerization, docker-free day; isolation in thought only.
+
