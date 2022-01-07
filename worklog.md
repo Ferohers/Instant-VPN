@@ -6010,3 +6010,6 @@ mental security audit conducted, vulnerabilities unexploited; theoretical penetr
 ## 2022-01-05T18:09:27
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2022-01-06T17:42:06
+debated best practices, practice put on hold; principles before patterns.
+
