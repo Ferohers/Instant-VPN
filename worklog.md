@@ -6013,3 +6013,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2022-01-06T17:42:06
 debated best practices, practice put on hold; principles before patterns.
 
+## 2022-01-10T17:50:01
+conceptual leaps made, keystrokes conserved; sometimes progress is silent.
+
