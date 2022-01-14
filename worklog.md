@@ -6040,3 +6040,6 @@ mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 ## 2022-01-12T13:11:11
 thought about cache invalidation, cache hits steady; conceptual performance tuning.
 
+## 2022-01-13T19:45:49
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
