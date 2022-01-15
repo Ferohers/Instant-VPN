@@ -6055,3 +6055,6 @@ conceptual cache invalidated, actual cache untouched; refreshing mental models.
 ## 2022-01-13T09:22:15
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2022-01-14T19:09:09
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
