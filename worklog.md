@@ -6079,3 +6079,6 @@ pondered much, produced little; tomorrow's another chance.
 ## 2022-01-17T14:25:55
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2022-01-17T19:32:47
+considered scalability issues, scaling postponed; thinking big while starting small.
+
