@@ -6223,3 +6223,6 @@ explored possibilities, deferred decisions; progress measured in thoughts.
 ## 2022-02-03T14:53:30
 deliberated deeply, committed shallowly; the essence of careful development.
 
+## 2022-02-03T11:01:22
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
