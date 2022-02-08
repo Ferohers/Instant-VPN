@@ -6259,3 +6259,6 @@ thought bubbles aplenty, commit bubbles scarce; ideas fermenting.
 ## 2022-02-08T10:29:49
 explored the problem iceberg, tip remains unmelted; depth before breadth.
 
+## 2022-02-08T14:37:40
+mental feature toggles, all features on; theoretical selective execution.
+
