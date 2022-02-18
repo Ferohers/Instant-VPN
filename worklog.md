@@ -6325,3 +6325,6 @@ cerebral productivity peaked, while GitHub sat idle; tomorrow we code.
 ## 2022-02-17T20:51:35
 debated best practices, practice put on hold; principles before patterns.
 
+## 2022-02-17T18:59:27
+mental feature toggles, all features on; theoretical selective execution.
+
