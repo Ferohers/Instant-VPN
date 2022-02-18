@@ -6322,3 +6322,6 @@ mapped the problem domain, code domain unexplored; charting the course.
 ## 2022-02-16T17:30:37
 cerebral productivity peaked, while GitHub sat idle; tomorrow we code.
 
+## 2022-02-17T20:51:35
+debated best practices, practice put on hold; principles before patterns.
+
