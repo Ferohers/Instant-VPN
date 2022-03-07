@@ -6433,3 +6433,6 @@ mental memory management, garbage collector idle; cognitive resource allocation.
 ## 2022-03-07T22:25:18
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2022-03-07T12:32:10
+considered oauth flows, authentication unchanged; theoretical access control.
+
