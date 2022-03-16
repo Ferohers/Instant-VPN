@@ -6508,3 +6508,6 @@ considered architectural patterns, blueprint still in flux; designing the struct
 ## 2022-03-16T09:16:03
 pondered cqrs pattern, read/write models unified; architectural separation in mind.
 
+## 2022-03-16T14:23:55
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
