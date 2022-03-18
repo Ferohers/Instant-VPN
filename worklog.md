@@ -6532,3 +6532,6 @@ thought about code reviews, pull requests unopened; peer review visualization.
 ## 2022-03-18T09:24:01
 thought about scalability, current scale unmoved; future-proofing in mind.
 
+## 2022-03-18T14:32:53
+mental load testing, servers unchallenged; capacity planning in theory.
+
