@@ -6706,3 +6706,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2022-04-11T13:19:56
 considered logging strategies, log files unchanging; traceability in theory.
 
+## 2022-04-11T18:26:48
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
