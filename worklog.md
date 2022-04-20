@@ -6775,3 +6775,6 @@ mental branches created, git branches unchanged; parallel universe planning.
 ## 2022-04-20T14:04:40
 brainstormed feature ideas, backlog unchanged; conceptual product planning.
 
+## 2022-04-20T12:11:31
+considered scalability issues, scaling postponed; thinking big while starting small.
+
