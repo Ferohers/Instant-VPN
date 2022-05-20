@@ -6976,3 +6976,6 @@ conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 ## 2022-05-20T11:49:00
 considered scalability, scaled back coding; strategic pause for future growth.
 
+## 2022-05-20T16:04:52
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
