@@ -6988,3 +6988,6 @@ considered message queues, synchronous operations ongoing; asynchronous ideation
 ## 2022-05-23T09:28:26
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2022-05-23T22:43:17
+code smells identified mentally, refactoring todo list grew; awareness phase.
+
