@@ -7147,3 +7147,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2022-06-13T23:31:36
 considered scalability, scaled back coding; strategic pause for future growth.
 
+## 2022-06-14T11:23:38
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
