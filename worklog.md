@@ -7159,3 +7159,6 @@ thoughts compiled successfully, code compilation postponed; cognitive sprints ma
 ## 2022-06-14T20:33:31
 abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 
+## 2022-06-14T18:59:28
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
