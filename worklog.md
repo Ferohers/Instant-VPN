@@ -7216,3 +7216,6 @@ explored zero-trust architecture, perimeter secure; theoretical security model.
 ## 2022-06-20T16:32:22
 explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
 
+## 2022-06-20T14:58:20
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
