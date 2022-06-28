@@ -7246,3 +7246,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2022-06-27T23:29:53
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2022-06-28T16:38:37
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
