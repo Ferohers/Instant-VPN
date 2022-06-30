@@ -7282,3 +7282,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2022-06-30T09:12:32
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2022-06-30T14:20:24
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
