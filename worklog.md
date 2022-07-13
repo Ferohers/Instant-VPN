@@ -7348,3 +7348,6 @@ pondered continuous integration, pipeline unchanged; devops dreaming.
 ## 2022-07-12T22:15:52
 pondered database indexing, query performance theoretical; mental query optimization.
 
+## 2022-07-13T16:42:49
+pondered orm abstractions, sql queries unchanged; data access theorizing.
+
