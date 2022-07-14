@@ -7354,3 +7354,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2022-07-13T14:08:46
 thought experiments ran, real experiments backlogged; hypothesis formation day.
 
+## 2022-07-13T19:15:38
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
