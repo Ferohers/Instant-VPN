@@ -7378,3 +7378,6 @@ algorithms pondered, implementation postponed; strategy before tactics.
 ## 2022-07-15T22:09:23
 dived deep into theory, implementation remained shallow; foundations before buildings.
 
+## 2022-07-15T12:17:07
+mulled over possibilities, kept options open; decision tree growing.
+
