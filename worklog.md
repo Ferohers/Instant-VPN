@@ -7555,3 +7555,6 @@ pondered blue-green deployments, single environment stable; zero-downtime theori
 ## 2022-08-03T13:00:58
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2022-08-03T18:08:49
+debated best practices, practice put on hold; principles before patterns.
+
