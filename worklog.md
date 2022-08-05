@@ -7558,3 +7558,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2022-08-03T18:08:49
 debated best practices, practice put on hold; principles before patterns.
 
+## 2022-08-04T20:33:48
+explored containerization concepts, docker files unwritten; mental isolation practice.
+
