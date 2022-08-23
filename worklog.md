@@ -7645,3 +7645,6 @@ rich in consideration, poor in commits; the developer's paradox.
 ## 2022-08-19T18:51:43
 explored quantum computing algorithms, classical computing steady; theoretical superposition.
 
+## 2022-08-22T20:08:04
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
