@@ -7660,3 +7660,6 @@ thought experiments ran, real experiments backlogged; hypothesis formation day.
 ## 2022-08-24T10:23:27
 pondered orm abstractions, sql queries unchanged; data access theorizing.
 
+## 2022-08-24T22:38:18
+considered containerization, docker-free day; isolation in thought only.
+
