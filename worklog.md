@@ -7666,3 +7666,6 @@ considered containerization, docker-free day; isolation in thought only.
 ## 2022-08-25T22:08:10
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2022-08-25T20:34:08
+mental code signing, certificates unexpired; security in principle.
+
