@@ -7663,3 +7663,6 @@ pondered orm abstractions, sql queries unchanged; data access theorizing.
 ## 2022-08-24T22:38:18
 considered containerization, docker-free day; isolation in thought only.
 
+## 2022-08-25T22:08:10
+pondered homomorphic encryption, data in clear; theoretical secure computation.
+
