@@ -7777,3 +7777,6 @@ ideated on interface design, UI unchanged; conceptual user experience work.
 ## 2022-09-07T18:42:46
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2022-09-07T23:57:38
+considered oauth flows, authentication unchanged; theoretical access control.
+
