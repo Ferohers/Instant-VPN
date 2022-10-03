@@ -7954,3 +7954,6 @@ explored test-driven development mentally, tests unwritten; methodological conte
 ## 2022-09-29T19:39:48
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2022-10-03T10:23:52
+considered hot code reloading, restarts required; theoretical continuous operation.
+
