@@ -7963,3 +7963,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2022-10-04T14:00:12
 abstract data structures pondered, concrete ones unaltered; theoretical modeling day.
 
+## 2022-10-04T13:26:10
+debated best practices, practice put on hold; principles before patterns.
+
