@@ -7972,3 +7972,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2022-10-04T09:29:10
 explored possibilities, deferred decisions; progress measured in thoughts.
 
+## 2022-10-04T22:06:13
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
