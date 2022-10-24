@@ -8104,3 +8104,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2022-10-24T13:50:51
 contemplated code comments, documentation debt grew; mental note-taking.
 
+## 2022-10-24T11:58:42
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
