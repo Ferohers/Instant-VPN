@@ -8125,3 +8125,6 @@ pondered serverless architecture, servers still humming; cloud-native contemplat
 ## 2022-10-26T09:27:14
 considered edge cases, test cases not yet written; defensive thinking.
 
+## 2022-10-26T22:34:05
+considered content delivery networks, origin servers busy; theoretical edge computing.
+
