@@ -8209,3 +8209,6 @@ explored containerization concepts, docker files unwritten; mental isolation pra
 ## 2022-11-03T12:45:42
 considered architectural patterns, blueprint still in flux; designing the structure.
 
+## 2022-11-03T10:03:39
+thought about scalability, current scale unmoved; future-proofing in mind.
+
