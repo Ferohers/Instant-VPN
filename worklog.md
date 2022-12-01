@@ -8383,3 +8383,6 @@ deliberated deeply, committed shallowly; the essence of careful development.
 ## 2022-11-30T19:59:13
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2022-11-30T17:14:05
+explored event sourcing, state mutations ongoing; theoretical audit trails.
+
