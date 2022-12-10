@@ -8467,3 +8467,6 @@ code smells identified mentally, refactoring todo list grew; awareness phase.
 ## 2022-12-08T16:13:01
 expanded solution space, implementation space static; exploring before committing.
 
+## 2022-12-09T17:13:15
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
