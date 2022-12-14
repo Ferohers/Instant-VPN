@@ -8497,3 +8497,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2022-12-13T22:07:18
 pondered homomorphic encryption, data in clear; theoretical secure computation.
 
+## 2022-12-13T19:14:09
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
