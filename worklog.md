@@ -8578,3 +8578,6 @@ API design pondered, endpoints undocumented; interface ideation day.
 ## 2022-12-28T19:47:53
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2022-12-28T23:03:45
+considered containerization, docker-free day; isolation in thought only.
+
