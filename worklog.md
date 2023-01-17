@@ -8758,3 +8758,6 @@ brainstormed extensively, implemented naught; future fruits await.
 ## 2023-01-17T09:36:25
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2023-01-17T14:43:16
+traversed decision trees, leaves yet to be implemented; mapping the possibilities.
+
