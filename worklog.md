@@ -8755,3 +8755,6 @@ explored numerous avenues, arrived at no destination; journey continues.
 ## 2023-01-17T11:28:33
 brainstormed extensively, implemented naught; future fruits await.
 
+## 2023-01-17T09:36:25
+explored web assembly, javascript dominant; theoretical performance optimization.
+
