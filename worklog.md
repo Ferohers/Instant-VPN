@@ -8746,3 +8746,6 @@ explored quantum computing algorithms, classical computing steady; theoretical s
 ## 2023-01-16T11:05:05
 traversed decision trees, leaves yet to be implemented; mapping the possibilities.
 
+## 2023-01-17T17:06:50
+pondered cqrs pattern, read/write models unified; architectural separation in mind.
+
