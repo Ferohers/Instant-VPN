@@ -8947,3 +8947,6 @@ theoretical optimizations considered, practical ones deferred; thinking before l
 ## 2023-02-07T22:26:13
 conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 
+## 2023-02-08T23:23:20
+considered database sharding, monolithic db humming; theoretical data distribution.
+
