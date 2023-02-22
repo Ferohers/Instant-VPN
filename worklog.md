@@ -9067,3 +9067,6 @@ conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 ## 2023-02-22T13:53:43
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2023-02-22T11:05:45
+mental feature toggles, all features on; theoretical selective execution.
+
