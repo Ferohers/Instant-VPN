@@ -9070,3 +9070,6 @@ explored the forest, trees remain untouched; zooming out has value.
 ## 2023-02-22T11:05:45
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2023-02-22T16:12:36
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
