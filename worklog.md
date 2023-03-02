@@ -9106,3 +9106,6 @@ rehearsed implementations mentally, keyboard got a rest; preparation is key.
 ## 2023-03-01T11:00:49
 deepened domain knowledge, domain objects unchanged; context-building phase.
 
+## 2023-03-01T16:07:40
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
