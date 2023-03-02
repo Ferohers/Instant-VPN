@@ -9112,3 +9112,6 @@ abstract classes contemplated, concrete classes unchanged; OOP in the mind.
 ## 2023-03-01T14:14:32
 explored blockchain concepts, distributed ledger imaginary; decentralized thinking.
 
+## 2023-03-01T18:30:24
+debated best practices, practice put on hold; principles before patterns.
+
