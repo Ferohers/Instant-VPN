@@ -9115,3 +9115,6 @@ explored blockchain concepts, distributed ledger imaginary; decentralized thinki
 ## 2023-03-01T18:30:24
 debated best practices, practice put on hold; principles before patterns.
 
+## 2023-03-01T16:37:15
+explored domain-driven design, bounded contexts imaginary; conceptual modeling exercise.
+
