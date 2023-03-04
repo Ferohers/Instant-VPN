@@ -9142,3 +9142,6 @@ considered hot code reloading, restarts required; theoretical continuous operati
 ## 2023-03-03T20:21:48
 evaluated trade-offs, decisions pending; weighing options is progress too.
 
+## 2023-03-03T18:28:40
+thread safety considered, multithreading unexplored; concurrent thinking exercise.
+
