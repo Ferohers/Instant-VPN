@@ -9274,3 +9274,6 @@ mental benchmarks set, performance tests unrun; standardizing expectations.
 ## 2023-03-22T09:49:26
 abstraction level increased, concrete implementations deferred; hovering above the code.
 
+## 2023-03-23T09:18:03
+explored web assembly, javascript dominant; theoretical performance optimization.
+
