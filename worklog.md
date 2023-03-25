@@ -9277,3 +9277,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2023-03-23T09:18:03
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2023-03-24T17:15:57
+contemplated complexities, deferred implementation; sometimes thinking is doing.
+
