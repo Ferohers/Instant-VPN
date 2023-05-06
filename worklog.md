@@ -9604,3 +9604,6 @@ mental feature toggles, all features on; theoretical selective execution.
 ## 2023-05-05T18:14:52
 explored web assembly, javascript dominant; theoretical performance optimization.
 
+## 2023-05-05T23:21:43
+dived deep into theory, implementation remained shallow; foundations before buildings.
+
