@@ -9691,3 +9691,6 @@ mental code signing, certificates unexpired; security in principle.
 ## 2023-05-16T17:41:10
 mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 
+## 2023-05-17T12:47:57
+considered containerization, docker-free day; isolation in thought only.
+
