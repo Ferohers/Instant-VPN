@@ -9694,3 +9694,6 @@ mental TODOs multiplied, actual TODOs stable; prioritizing the intangible.
 ## 2023-05-17T12:47:57
 considered containerization, docker-free day; isolation in thought only.
 
+## 2023-05-17T17:03:49
+algorithm efficiency considered, implementation efficiency deferred; big O thinking.
+
