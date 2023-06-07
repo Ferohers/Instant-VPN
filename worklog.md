@@ -9853,3 +9853,6 @@ practiced mental pair programming, actual pairing postponed; collaborative visua
 ## 2023-06-07T18:10:04
 considered hot code reloading, restarts required; theoretical continuous operation.
 
+## 2023-06-07T15:17:56
+mental load testing, servers unchallenged; capacity planning in theory.
+
