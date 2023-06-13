@@ -9907,3 +9907,6 @@ abstract data structures pondered, concrete ones unaltered; theoretical modeling
 ## 2023-06-12T10:37:12
 mental stack traces analyzed, debugger unopened; proactive error catching.
 
+## 2023-06-12T23:44:03
+debated best practices, practice put on hold; principles before patterns.
+
