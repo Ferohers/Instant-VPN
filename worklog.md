@@ -10225,3 +10225,6 @@ contemplated complexities, deferred implementation; sometimes thinking is doing.
 ## 2023-07-26T17:33:46
 considered cross-platform compatibility, platform-specific code intact; theoretical portability.
 
+## 2023-07-26T22:40:38
+explored web assembly, javascript dominant; theoretical performance optimization.
+
