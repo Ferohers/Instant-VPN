@@ -10537,3 +10537,6 @@ mental dark launching, features fully visible; theoretical progressive rollout.
 ## 2023-09-08T16:27:10
 brainstormed feature ideas, backlog unchanged; conceptual product planning.
 
+## 2023-09-08T20:43:02
+debated best practices, practice put on hold; principles before patterns.
+
