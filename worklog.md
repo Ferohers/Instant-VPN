@@ -10720,3 +10720,6 @@ considered time-series databases, relational queries ongoing; theoretical trend 
 ## 2023-10-04T16:37:48
 interface designs sketched mentally, APIs unchanged; UX of the mind.
 
+## 2023-10-04T21:52:40
+conducted thought experiments, real experiments postponed; hypothesis before test.
+
