@@ -10795,3 +10795,6 @@ considered time-series databases, relational queries ongoing; theoretical trend 
 ## 2023-10-16T15:58:57
 thought compilation successful, code compilation postponed; mental dry runs.
 
+## 2023-10-17T16:11:41
+debated best practices, practice put on hold; principles before patterns.
+
