@@ -11059,3 +11059,6 @@ contemplative coding day: all thought, no action; preparing for future velocity.
 ## 2023-11-28T15:46:51
 ideas flowed, but code didn't; contemplation was today's output.
 
+## 2023-11-29T17:20:26
+explored web assembly, javascript dominant; theoretical performance optimization.
+
