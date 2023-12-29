@@ -11287,3 +11287,6 @@ mulled over possibilities, kept options open; decision tree growing.
 ## 2023-12-28T15:04:37
 explored event-driven architecture, listeners unimplemented; reactive thinking exercise.
 
+## 2023-12-29T13:37:14
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
