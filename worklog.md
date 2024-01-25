@@ -11533,3 +11533,6 @@ considered continuous integration, deployment continuous only in mind; DevOps dr
 ## 2024-01-24T22:06:57
 mental feature toggles, all features on; theoretical selective execution.
 
+## 2024-01-24T20:14:49
+abstraction level increased, concrete implementations deferred; hovering above the code.
+
