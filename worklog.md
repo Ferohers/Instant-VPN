@@ -11539,3 +11539,6 @@ abstraction level increased, concrete implementations deferred; hovering above t
 ## 2024-01-24T10:29:40
 mental load balancing performed, system load unchanged; cognitive resource management.
 
+## 2024-01-25T09:04:57
+debated best practices, practice put on hold; principles before patterns.
+
