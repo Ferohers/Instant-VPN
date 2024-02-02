@@ -11605,3 +11605,6 @@ explored architectural possibilities, blueprint remains draft; planning has meri
 ## 2024-02-01T15:37:30
 thought about cache invalidation, cache hits steady; conceptual performance tuning.
 
+## 2024-02-01T20:44:22
+debated best practices, practice put on hold; principles before patterns.
+
