@@ -12478,3 +12478,6 @@ mental graphql schema design, rest apis undisturbed; theoretical data querying.
 ## 2024-06-07T19:16:59
 explored the forest, trees remain untouched; zooming out has value.
 
+## 2024-06-07T17:42:56
+theoretical optimizations considered, practical ones deferred; thinking before leaping.
+
