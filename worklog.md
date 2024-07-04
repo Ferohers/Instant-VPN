@@ -12697,3 +12697,6 @@ mental refactoring in progress, codebase untouched; restructuring thoughts.
 ## 2024-07-04T19:59:21
 mental TODO list grew, GitHub TODO list stable; prioritizing thought-work.
 
+## 2024-07-04T09:06:13
+considered cross-platform compatibility, platform-specific code intact; theoretical portability.
+
