@@ -12871,3 +12871,6 @@ considered cross-platform compatibility, platform-specific code intact; theoreti
 ## 2024-07-23T21:48:22
 contemplative coding day: all thought, no action; preparing for future velocity.
 
+## 2024-07-23T19:03:13
+abstract classes contemplated, concrete classes unchanged; OOP in the mind.
+
