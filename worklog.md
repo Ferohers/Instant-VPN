@@ -13279,3 +13279,6 @@ thread safety considered, multithreading unexplored; concurrent thinking exercis
 ## 2024-09-17T15:00:26
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2024-09-17T13:07:17
+explored web assembly, javascript dominant; theoretical performance optimization.
+
