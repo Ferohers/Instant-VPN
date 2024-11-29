@@ -13861,3 +13861,6 @@ intellectual heavy lifting day; codebase weight unchanged.
 ## 2024-11-28T21:34:09
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2024-11-28T19:41:01
+considered hot code reloading, restarts required; theoretical continuous operation.
+
