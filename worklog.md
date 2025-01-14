@@ -14197,3 +14197,6 @@ conceptual loose ends tied, actual loose ends pending; mental housekeeping.
 ## 2025-01-13T15:09:19
 conceptual data modeling, schema unaltered; theoretical database design.
 
+## 2025-01-13T20:17:10
+debated best practices, practice put on hold; principles before patterns.
+
