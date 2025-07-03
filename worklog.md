@@ -15385,3 +15385,6 @@ considered oauth flows, authentication unchanged; theoretical access control.
 ## 2025-07-01T11:47:51
 API design pondered, endpoints undocumented; interface ideation day.
 
+## 2025-07-02T20:05:16
+conceptual cache invalidated, actual cache untouched; refreshing mental models.
+
