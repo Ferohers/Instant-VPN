@@ -15421,3 +15421,6 @@ conceptual hurdles cleared, implementation hurdles await; mental parkour day.
 ## 2025-07-07T22:19:32
 considered scalability issues, scaling postponed; thinking big while starting small.
 
+## 2025-07-07T12:26:24
+mental load testing, servers unchallenged; capacity planning in theory.
+
