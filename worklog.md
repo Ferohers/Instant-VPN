@@ -15424,3 +15424,6 @@ considered scalability issues, scaling postponed; thinking big while starting sm
 ## 2025-07-07T12:26:24
 mental load testing, servers unchallenged; capacity planning in theory.
 
+## 2025-07-08T09:47:14
+considered hot code reloading, restarts required; theoretical continuous operation.
+
